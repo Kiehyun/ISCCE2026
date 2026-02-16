@@ -20,112 +20,78 @@
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global/global}
     \entry{Barba2019}{article}{}{}
-      \name{author}{16}{}{%
-        {{un=0,uniquepart=base,hash=9d540f51a15a44293916a1b2aa8cb8b7}{%
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=0fda5197bc2ba7fcf776a8cf6246b322}{%
            family={Barba},
            familyi={B\bibinitperiod},
-           given={L.\bibnamedelimi A.},
+           given={Lorena\bibnamedelima A},
            giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=6ed4fd2ed17617474d4660d6edda2bb0}{%
+        {{un=0,uniquepart=base,hash=aaf7649b737e17fea8ac3c7acb64b35e}{%
            family={Barker},
            familyi={B\bibinitperiod},
-           given={L.\bibnamedelimi J.},
+           given={Lecia\bibnamedelima J},
            giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=c868e7e28b1a87a6732f46becfdc259e}{%
+        {{un=0,uniquepart=base,hash=b2bf58165ce8761851c1dd6eaf513b4d}{%
            family={Blank},
            familyi={B\bibinitperiod},
-           given={D.\bibnamedelimi S.},
+           given={Douglas\bibnamedelima S},
            giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=25289088678a4ae9c74df9275c8ab269}{%
+        {{un=0,uniquepart=base,hash=d0832f00d5cff405e609d25f1430b8a9}{%
            family={Brown},
            familyi={B\bibinitperiod},
-           given={J.},
+           given={Jed},
            giveni={J\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=d7550f4c4b73a91778c38a7a8b73605e}{%
+        {{un=0,uniquepart=base,hash=da33840c04e61ac05c236587952f6874}{%
            family={Downey},
            familyi={D\bibinitperiod},
-           given={A.\bibnamedelimi B.},
+           given={Allen\bibnamedelima B},
            giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=66edb16f9ebe9cd7496030804e1127e9}{%
+        {{un=0,uniquepart=base,hash=2e765d582e6cf71f1429f8a1bc3a0b0e}{%
            family={George},
            familyi={G\bibinitperiod},
-           given={T.},
+           given={Timothy},
            giveni={T\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=755e4fc4b7d5e24efc4a36b99175744b}{%
+        {{un=0,uniquepart=base,hash=5ee96e2d58d4ac275b97d8b852c3b922}{%
            family={Heagy},
            familyi={H\bibinitperiod},
-           given={L.\bibnamedelimi J.},
+           given={Lindsey\bibnamedelima J},
            giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=7ace5f45a860287647fee3e511260e8c}{%
+        {{un=0,uniquepart=base,hash=96e4d19458e1a15581a8ee2b9473b558}{%
            family={Mandli},
            familyi={M\bibinitperiod},
-           given={K.\bibnamedelimi T.},
+           given={Kyle\bibnamedelima T},
            giveni={K\bibinitperiod\bibinitdelim T\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=23ebc8e8ddbac7e5c664c4749328afcb}{%
+        {{un=0,uniquepart=base,hash=b4d8be6cc41fee890e6c8e15d626e555}{%
            family={Moore},
            familyi={M\bibinitperiod},
-           given={J.\bibnamedelimi K.},
+           given={Jason\bibnamedelima K},
            giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=643aece1ab37bcf364a6318c429683b3}{%
+        {{un=0,uniquepart=base,hash=586b1c7fe7c320df5a0e968a9acd47c9}{%
            family={Lippert},
            familyi={L\bibinitperiod},
-           given={D.},
+           given={David},
            giveni={D\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=4b16ae4fee18f6e3c9f0e082853bbc72}{%
-           family={Niemeyer},
-           familyi={N\bibinitperiod},
-           given={K.\bibnamedelimi E.},
-           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=a265a097e16963289fb47c3792326c91}{%
-           family={Watkins},
-           familyi={W\bibinitperiod},
-           given={R.\bibnamedelimi R.},
-           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c1242305fbf2faf05317919ed42b2ade}{%
-           family={West},
-           familyi={W\bibinitperiod},
-           given={R.\bibnamedelimi H.},
-           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=fd14315c150b320669224e1f2f2e466c}{%
-           family={Wickes},
-           familyi={W\bibinitperiod},
-           given={E.},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=4b9ee2cc0c9765f776a2683d1a630bbd}{%
-           family={Willing},
-           familyi={W\bibinitperiod},
-           given={C.},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=32f4b568c5254863767c4fd5608b3bd6}{%
-           family={Zingale},
-           familyi={Z\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
       }
-      \strng{namehash}{e0f7f36885eb7706b24255a530e7f455}
-      \strng{fullhash}{e0f7f36885eb7706b24255a530e7f455}
-      \strng{fullhashraw}{e0f7f36885eb7706b24255a530e7f455}
-      \strng{bibnamehash}{e0f7f36885eb7706b24255a530e7f455}
-      \strng{authorbibnamehash}{e0f7f36885eb7706b24255a530e7f455}
-      \strng{authornamehash}{e0f7f36885eb7706b24255a530e7f455}
-      \strng{authorfullhash}{e0f7f36885eb7706b24255a530e7f455}
-      \strng{authorfullhashraw}{e0f7f36885eb7706b24255a530e7f455}
+      \strng{namehash}{32a112c75457782c1454b21c60a51323}
+      \strng{fullhash}{32a112c75457782c1454b21c60a51323}
+      \strng{fullhashraw}{32a112c75457782c1454b21c60a51323}
+      \strng{bibnamehash}{32a112c75457782c1454b21c60a51323}
+      \strng{authorbibnamehash}{32a112c75457782c1454b21c60a51323}
+      \strng{authornamehash}{32a112c75457782c1454b21c60a51323}
+      \strng{authorfullhash}{32a112c75457782c1454b21c60a51323}
+      \strng{authorfullhashraw}{32a112c75457782c1454b21c60a51323}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -133,66 +99,65 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Open Source Education}
-      \field{title}{{Teaching and learning with Jupyter}}
+      \field{journaltitle}{Recuperado: https://jupyter4edu. github. io/jupyter-edu-book}
+      \field{title}{Teaching and learning with Jupyter}
       \field{year}{2019}
-      \verb{doi}
-      \verb 10.21105/jose.00032
-      \endverb
+      \field{pages}{1\bibrangedash 77}
+      \range{pages}{77}
     \endentry
     \entry{Bybee2006}{article}{}{}
       \name{author}{7}{}{%
-        {{un=0,uniquepart=base,hash=9972179fc99d5b7b5f71278a2998ac95}{%
+        {{un=0,uniquepart=base,hash=559eff73655ddffc80ff602f0a36f1ca}{%
            family={Bybee},
            familyi={B\bibinitperiod},
-           given={R.\bibnamedelimi W.},
+           given={Rodger\bibnamedelima W},
            giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=dd59c240891cc8d1b05cda06bc492dca}{%
+        {{un=0,uniquepart=base,hash=bce34fc58db6954939a89e9ffdcc806c}{%
            family={Taylor},
            familyi={T\bibinitperiod},
-           given={J.\bibnamedelimi A.},
+           given={Joseph\bibnamedelima A},
            giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=5b35d25b74ba5e90c781422506015559}{%
+        {{un=0,uniquepart=base,hash=d772cedbe9d224f8dd30ddea60c54266}{%
            family={Gardner},
            familyi={G\bibinitperiod},
-           given={A.},
+           given={April},
            giveni={A\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=a68030e3ca80b90ed3069771312703a6}{%
+        {{un=0,uniquepart=base,hash=f34aabccd9eba1097e7e16efe5dde0e2}{%
            family={Van\bibnamedelima Scotter},
            familyi={V\bibinitperiod\bibinitdelim S\bibinitperiod},
-           given={P.},
+           given={Pamela},
            giveni={P\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=4cc7ede68f38bb03d9350fd81f9e9edf}{%
+        {{un=0,uniquepart=base,hash=954553650749864125c5e6406056d809}{%
            family={Powell},
            familyi={P\bibinitperiod},
-           given={J.\bibnamedelimi C.},
+           given={J\bibnamedelima Carlson},
            giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=0380fd59d0deb228cdfb52b42f0bfdca}{%
+        {{un=0,uniquepart=base,hash=b3b2d2668303687708d6b5cc9c8116e7}{%
            family={Westbrook},
            familyi={W\bibinitperiod},
-           given={A.},
+           given={Anne},
            giveni={A\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=5b123d8789ea0656955e0494ff380c59}{%
+        {{un=0,uniquepart=base,hash=fc3a1155cd6f5325e81112f0225a2845}{%
            family={Landes},
            familyi={L\bibinitperiod},
-           given={N.},
+           given={Nancy},
            giveni={N\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{083242ffd04b443a880a2afae72c1615}
-      \strng{fullhash}{083242ffd04b443a880a2afae72c1615}
-      \strng{fullhashraw}{083242ffd04b443a880a2afae72c1615}
-      \strng{bibnamehash}{083242ffd04b443a880a2afae72c1615}
-      \strng{authorbibnamehash}{083242ffd04b443a880a2afae72c1615}
-      \strng{authornamehash}{083242ffd04b443a880a2afae72c1615}
-      \strng{authorfullhash}{083242ffd04b443a880a2afae72c1615}
-      \strng{authorfullhashraw}{083242ffd04b443a880a2afae72c1615}
+      \strng{namehash}{b4fc74dda579a39b8d2eed7046d38899}
+      \strng{fullhash}{b4fc74dda579a39b8d2eed7046d38899}
+      \strng{fullhashraw}{b4fc74dda579a39b8d2eed7046d38899}
+      \strng{bibnamehash}{b4fc74dda579a39b8d2eed7046d38899}
+      \strng{authorbibnamehash}{b4fc74dda579a39b8d2eed7046d38899}
+      \strng{authornamehash}{b4fc74dda579a39b8d2eed7046d38899}
+      \strng{authorfullhash}{b4fc74dda579a39b8d2eed7046d38899}
+      \strng{authorfullhashraw}{b4fc74dda579a39b8d2eed7046d38899}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -200,12 +165,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Colorado Springs, CO: BSCS}
-      \field{title}{{The BSCS 5E instructional model: Origins and effectiveness}}
+      \field{journaltitle}{Colorado Springs, Co: BSCS}
+      \field{number}{88-98}
+      \field{title}{The BSCS 5E instructional model: Origins and effectiveness}
       \field{volume}{5}
       \field{year}{2006}
-      \field{pages}{88\bibrangedash 98}
-      \range{pages}{11}
     \endentry
     \entry{Chinn2002}{article}{}{}
       \name{author}{2}{}{%
@@ -250,69 +214,69 @@
     \endentry
     \entry{Gould2016}{article}{}{}
       \name{author}{9}{}{%
-        {{un=0,uniquepart=base,hash=0d0c4201a3e3df7c36671f7015cc6474}{%
+        {{un=0,uniquepart=base,hash=3f09b5f9995cc1e49eb7f2a14f5a5628}{%
            family={Gould},
            familyi={G\bibinitperiod},
-           given={R.},
+           given={Robert},
            giveni={R\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=b5a4b51f82130861833371fdea3f14c5}{%
+        {{un=0,uniquepart=base,hash=af40e771e68e405826eb548e9e2960c5}{%
            family={Machado},
            familyi={M\bibinitperiod},
-           given={S.},
+           given={Suyen},
            giveni={S\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=e27485badf8d5a7575a7b5aca6397173}{%
+        {{un=0,uniquepart=base,hash=00aea1675ba1fd7cbed0feb177b98a84}{%
            family={Ong},
            familyi={O\bibinitperiod},
-           given={C.},
+           given={Christine},
            giveni={C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=e68c5fd89fd926beec66f4e899280378}{%
+        {{un=0,uniquepart=base,hash=fbae9494f79d29c803a857f85d0b3ffb}{%
            family={Johnson},
            familyi={J\bibinitperiod},
-           given={T.},
+           given={Terri},
            giveni={T\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=ae897235aac374c53cb6accf5fb40058}{%
+        {{un=0,uniquepart=base,hash=789f83eebd3a6ab5fb3f5c4a7fca5ec4}{%
            family={Molyneux},
            familyi={M\bibinitperiod},
-           given={J.},
+           given={James},
            giveni={J\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=5864fe65ef3a1a5573093dfdf27e811a}{%
+        {{un=0,uniquepart=base,hash=8492a17e7db0db1bef65829e359ff5f1}{%
            family={Nolen},
            familyi={N\bibinitperiod},
-           given={S.},
+           given={Steve},
            giveni={S\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=fefeb314657aed74e3e9350d61d79bfc}{%
+        {{un=0,uniquepart=base,hash=3a6ecfc10ae4d7275ba1ad8573a1dbdd}{%
            family={Tangmunarunkit},
            familyi={T\bibinitperiod},
-           given={H.},
+           given={Hongsuda},
            giveni={H\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=bb477199c15cfb2b6f3612868938fc5e}{%
            family={Trusela},
            familyi={T\bibinitperiod},
-           given={L.},
+           given={L},
            giveni={L\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=8961c4549cfdf0c79ebef1596c2713cb}{%
+        {{un=0,uniquepart=base,hash=0f38d360627c454abd848e16cfba1557}{%
            family={Zanontian},
            familyi={Z\bibinitperiod},
-           given={L.},
+           given={Linda},
            giveni={L\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{40747fc4d8acf1533f8d8b1f4cae83f4}
-      \strng{fullhash}{40747fc4d8acf1533f8d8b1f4cae83f4}
-      \strng{fullhashraw}{40747fc4d8acf1533f8d8b1f4cae83f4}
-      \strng{bibnamehash}{40747fc4d8acf1533f8d8b1f4cae83f4}
-      \strng{authorbibnamehash}{40747fc4d8acf1533f8d8b1f4cae83f4}
-      \strng{authornamehash}{40747fc4d8acf1533f8d8b1f4cae83f4}
-      \strng{authorfullhash}{40747fc4d8acf1533f8d8b1f4cae83f4}
-      \strng{authorfullhashraw}{40747fc4d8acf1533f8d8b1f4cae83f4}
+      \strng{namehash}{7641d2eb11966e86333f6765e06df2f9}
+      \strng{fullhash}{7641d2eb11966e86333f6765e06df2f9}
+      \strng{fullhashraw}{7641d2eb11966e86333f6765e06df2f9}
+      \strng{bibnamehash}{7641d2eb11966e86333f6765e06df2f9}
+      \strng{authorbibnamehash}{7641d2eb11966e86333f6765e06df2f9}
+      \strng{authornamehash}{7641d2eb11966e86333f6765e06df2f9}
+      \strng{authorfullhash}{7641d2eb11966e86333f6765e06df2f9}
+      \strng{authorfullhashraw}{7641d2eb11966e86333f6765e06df2f9}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
@@ -320,8 +284,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Proceedings of the Ninth International Conference on Teaching Statistics}
-      \field{title}{{Teaching data science to secondary students: The mobilize introduction to data science curriculum}}
+      \field{journaltitle}{Iase-Web. Org}
+      \field{title}{Teaching data science to secondary students: The mobilize introduction to data science curriculum}
       \field{year}{2016}
     \endentry
     \entry{IPCC2021}{book}{}{}
@@ -831,112 +795,78 @@
   \enddatalist
   \datalist[entry]{apa/global//global/global/global}
     \entry{Barba2019}{article}{}{}
-      \name{author}{16}{}{%
-        {{un=0,uniquepart=base,hash=9d540f51a15a44293916a1b2aa8cb8b7}{%
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=0fda5197bc2ba7fcf776a8cf6246b322}{%
            family={Barba},
            familyi={B\bibinitperiod},
-           given={L.\bibnamedelimi A.},
+           given={Lorena\bibnamedelima A},
            giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=6ed4fd2ed17617474d4660d6edda2bb0}{%
+        {{un=0,uniquepart=base,hash=aaf7649b737e17fea8ac3c7acb64b35e}{%
            family={Barker},
            familyi={B\bibinitperiod},
-           given={L.\bibnamedelimi J.},
+           given={Lecia\bibnamedelima J},
            giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=c868e7e28b1a87a6732f46becfdc259e}{%
+        {{un=0,uniquepart=base,hash=b2bf58165ce8761851c1dd6eaf513b4d}{%
            family={Blank},
            familyi={B\bibinitperiod},
-           given={D.\bibnamedelimi S.},
+           given={Douglas\bibnamedelima S},
            giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=25289088678a4ae9c74df9275c8ab269}{%
+        {{un=0,uniquepart=base,hash=d0832f00d5cff405e609d25f1430b8a9}{%
            family={Brown},
            familyi={B\bibinitperiod},
-           given={J.},
+           given={Jed},
            giveni={J\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=d7550f4c4b73a91778c38a7a8b73605e}{%
+        {{un=0,uniquepart=base,hash=da33840c04e61ac05c236587952f6874}{%
            family={Downey},
            familyi={D\bibinitperiod},
-           given={A.\bibnamedelimi B.},
+           given={Allen\bibnamedelima B},
            giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=66edb16f9ebe9cd7496030804e1127e9}{%
+        {{un=0,uniquepart=base,hash=2e765d582e6cf71f1429f8a1bc3a0b0e}{%
            family={George},
            familyi={G\bibinitperiod},
-           given={T.},
+           given={Timothy},
            giveni={T\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=755e4fc4b7d5e24efc4a36b99175744b}{%
+        {{un=0,uniquepart=base,hash=5ee96e2d58d4ac275b97d8b852c3b922}{%
            family={Heagy},
            familyi={H\bibinitperiod},
-           given={L.\bibnamedelimi J.},
+           given={Lindsey\bibnamedelima J},
            giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=7ace5f45a860287647fee3e511260e8c}{%
+        {{un=0,uniquepart=base,hash=96e4d19458e1a15581a8ee2b9473b558}{%
            family={Mandli},
            familyi={M\bibinitperiod},
-           given={K.\bibnamedelimi T.},
+           given={Kyle\bibnamedelima T},
            giveni={K\bibinitperiod\bibinitdelim T\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=23ebc8e8ddbac7e5c664c4749328afcb}{%
+        {{un=0,uniquepart=base,hash=b4d8be6cc41fee890e6c8e15d626e555}{%
            family={Moore},
            familyi={M\bibinitperiod},
-           given={J.\bibnamedelimi K.},
+           given={Jason\bibnamedelima K},
            giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=643aece1ab37bcf364a6318c429683b3}{%
+        {{un=0,uniquepart=base,hash=586b1c7fe7c320df5a0e968a9acd47c9}{%
            family={Lippert},
            familyi={L\bibinitperiod},
-           given={D.},
+           given={David},
            giveni={D\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=4b16ae4fee18f6e3c9f0e082853bbc72}{%
-           family={Niemeyer},
-           familyi={N\bibinitperiod},
-           given={K.\bibnamedelimi E.},
-           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=a265a097e16963289fb47c3792326c91}{%
-           family={Watkins},
-           familyi={W\bibinitperiod},
-           given={R.\bibnamedelimi R.},
-           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c1242305fbf2faf05317919ed42b2ade}{%
-           family={West},
-           familyi={W\bibinitperiod},
-           given={R.\bibnamedelimi H.},
-           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=fd14315c150b320669224e1f2f2e466c}{%
-           family={Wickes},
-           familyi={W\bibinitperiod},
-           given={E.},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=4b9ee2cc0c9765f776a2683d1a630bbd}{%
-           family={Willing},
-           familyi={W\bibinitperiod},
-           given={C.},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=32f4b568c5254863767c4fd5608b3bd6}{%
-           family={Zingale},
-           familyi={Z\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
       }
-      \strng{namehash}{e0f7f36885eb7706b24255a530e7f455}
-      \strng{fullhash}{e0f7f36885eb7706b24255a530e7f455}
-      \strng{fullhashraw}{e0f7f36885eb7706b24255a530e7f455}
-      \strng{bibnamehash}{e0f7f36885eb7706b24255a530e7f455}
-      \strng{authorbibnamehash}{e0f7f36885eb7706b24255a530e7f455}
-      \strng{authornamehash}{e0f7f36885eb7706b24255a530e7f455}
-      \strng{authorfullhash}{e0f7f36885eb7706b24255a530e7f455}
-      \strng{authorfullhashraw}{e0f7f36885eb7706b24255a530e7f455}
+      \strng{namehash}{32a112c75457782c1454b21c60a51323}
+      \strng{fullhash}{32a112c75457782c1454b21c60a51323}
+      \strng{fullhashraw}{32a112c75457782c1454b21c60a51323}
+      \strng{bibnamehash}{32a112c75457782c1454b21c60a51323}
+      \strng{authorbibnamehash}{32a112c75457782c1454b21c60a51323}
+      \strng{authornamehash}{32a112c75457782c1454b21c60a51323}
+      \strng{authorfullhash}{32a112c75457782c1454b21c60a51323}
+      \strng{authorfullhashraw}{32a112c75457782c1454b21c60a51323}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -944,66 +874,65 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Open Source Education}
-      \field{title}{{Teaching and learning with Jupyter}}
+      \field{journaltitle}{Recuperado: https://jupyter4edu. github. io/jupyter-edu-book}
+      \field{title}{Teaching and learning with Jupyter}
       \field{year}{2019}
-      \verb{doi}
-      \verb 10.21105/jose.00032
-      \endverb
+      \field{pages}{1\bibrangedash 77}
+      \range{pages}{77}
     \endentry
     \entry{Bybee2006}{article}{}{}
       \name{author}{7}{}{%
-        {{un=0,uniquepart=base,hash=9972179fc99d5b7b5f71278a2998ac95}{%
+        {{un=0,uniquepart=base,hash=559eff73655ddffc80ff602f0a36f1ca}{%
            family={Bybee},
            familyi={B\bibinitperiod},
-           given={R.\bibnamedelimi W.},
+           given={Rodger\bibnamedelima W},
            giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=dd59c240891cc8d1b05cda06bc492dca}{%
+        {{un=0,uniquepart=base,hash=bce34fc58db6954939a89e9ffdcc806c}{%
            family={Taylor},
            familyi={T\bibinitperiod},
-           given={J.\bibnamedelimi A.},
+           given={Joseph\bibnamedelima A},
            giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=5b35d25b74ba5e90c781422506015559}{%
+        {{un=0,uniquepart=base,hash=d772cedbe9d224f8dd30ddea60c54266}{%
            family={Gardner},
            familyi={G\bibinitperiod},
-           given={A.},
+           given={April},
            giveni={A\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=a68030e3ca80b90ed3069771312703a6}{%
+        {{un=0,uniquepart=base,hash=f34aabccd9eba1097e7e16efe5dde0e2}{%
            family={Van\bibnamedelima Scotter},
            familyi={V\bibinitperiod\bibinitdelim S\bibinitperiod},
-           given={P.},
+           given={Pamela},
            giveni={P\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=4cc7ede68f38bb03d9350fd81f9e9edf}{%
+        {{un=0,uniquepart=base,hash=954553650749864125c5e6406056d809}{%
            family={Powell},
            familyi={P\bibinitperiod},
-           given={J.\bibnamedelimi C.},
+           given={J\bibnamedelima Carlson},
            giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=0380fd59d0deb228cdfb52b42f0bfdca}{%
+        {{un=0,uniquepart=base,hash=b3b2d2668303687708d6b5cc9c8116e7}{%
            family={Westbrook},
            familyi={W\bibinitperiod},
-           given={A.},
+           given={Anne},
            giveni={A\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=5b123d8789ea0656955e0494ff380c59}{%
+        {{un=0,uniquepart=base,hash=fc3a1155cd6f5325e81112f0225a2845}{%
            family={Landes},
            familyi={L\bibinitperiod},
-           given={N.},
+           given={Nancy},
            giveni={N\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{083242ffd04b443a880a2afae72c1615}
-      \strng{fullhash}{083242ffd04b443a880a2afae72c1615}
-      \strng{fullhashraw}{083242ffd04b443a880a2afae72c1615}
-      \strng{bibnamehash}{083242ffd04b443a880a2afae72c1615}
-      \strng{authorbibnamehash}{083242ffd04b443a880a2afae72c1615}
-      \strng{authornamehash}{083242ffd04b443a880a2afae72c1615}
-      \strng{authorfullhash}{083242ffd04b443a880a2afae72c1615}
-      \strng{authorfullhashraw}{083242ffd04b443a880a2afae72c1615}
+      \strng{namehash}{b4fc74dda579a39b8d2eed7046d38899}
+      \strng{fullhash}{b4fc74dda579a39b8d2eed7046d38899}
+      \strng{fullhashraw}{b4fc74dda579a39b8d2eed7046d38899}
+      \strng{bibnamehash}{b4fc74dda579a39b8d2eed7046d38899}
+      \strng{authorbibnamehash}{b4fc74dda579a39b8d2eed7046d38899}
+      \strng{authornamehash}{b4fc74dda579a39b8d2eed7046d38899}
+      \strng{authorfullhash}{b4fc74dda579a39b8d2eed7046d38899}
+      \strng{authorfullhashraw}{b4fc74dda579a39b8d2eed7046d38899}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -1011,12 +940,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Colorado Springs, CO: BSCS}
-      \field{title}{{The BSCS 5E instructional model: Origins and effectiveness}}
+      \field{journaltitle}{Colorado Springs, Co: BSCS}
+      \field{number}{88-98}
+      \field{title}{The BSCS 5E instructional model: Origins and effectiveness}
       \field{volume}{5}
       \field{year}{2006}
-      \field{pages}{88\bibrangedash 98}
-      \range{pages}{11}
     \endentry
     \entry{Chinn2002}{article}{}{}
       \name{author}{2}{}{%
@@ -1061,69 +989,69 @@
     \endentry
     \entry{Gould2016}{article}{}{}
       \name{author}{9}{}{%
-        {{un=0,uniquepart=base,hash=0d0c4201a3e3df7c36671f7015cc6474}{%
+        {{un=0,uniquepart=base,hash=3f09b5f9995cc1e49eb7f2a14f5a5628}{%
            family={Gould},
            familyi={G\bibinitperiod},
-           given={R.},
+           given={Robert},
            giveni={R\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=b5a4b51f82130861833371fdea3f14c5}{%
+        {{un=0,uniquepart=base,hash=af40e771e68e405826eb548e9e2960c5}{%
            family={Machado},
            familyi={M\bibinitperiod},
-           given={S.},
+           given={Suyen},
            giveni={S\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=e27485badf8d5a7575a7b5aca6397173}{%
+        {{un=0,uniquepart=base,hash=00aea1675ba1fd7cbed0feb177b98a84}{%
            family={Ong},
            familyi={O\bibinitperiod},
-           given={C.},
+           given={Christine},
            giveni={C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=e68c5fd89fd926beec66f4e899280378}{%
+        {{un=0,uniquepart=base,hash=fbae9494f79d29c803a857f85d0b3ffb}{%
            family={Johnson},
            familyi={J\bibinitperiod},
-           given={T.},
+           given={Terri},
            giveni={T\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=ae897235aac374c53cb6accf5fb40058}{%
+        {{un=0,uniquepart=base,hash=789f83eebd3a6ab5fb3f5c4a7fca5ec4}{%
            family={Molyneux},
            familyi={M\bibinitperiod},
-           given={J.},
+           given={James},
            giveni={J\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=5864fe65ef3a1a5573093dfdf27e811a}{%
+        {{un=0,uniquepart=base,hash=8492a17e7db0db1bef65829e359ff5f1}{%
            family={Nolen},
            familyi={N\bibinitperiod},
-           given={S.},
+           given={Steve},
            giveni={S\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=fefeb314657aed74e3e9350d61d79bfc}{%
+        {{un=0,uniquepart=base,hash=3a6ecfc10ae4d7275ba1ad8573a1dbdd}{%
            family={Tangmunarunkit},
            familyi={T\bibinitperiod},
-           given={H.},
+           given={Hongsuda},
            giveni={H\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=bb477199c15cfb2b6f3612868938fc5e}{%
            family={Trusela},
            familyi={T\bibinitperiod},
-           given={L.},
+           given={L},
            giveni={L\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=8961c4549cfdf0c79ebef1596c2713cb}{%
+        {{un=0,uniquepart=base,hash=0f38d360627c454abd848e16cfba1557}{%
            family={Zanontian},
            familyi={Z\bibinitperiod},
-           given={L.},
+           given={Linda},
            giveni={L\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{40747fc4d8acf1533f8d8b1f4cae83f4}
-      \strng{fullhash}{40747fc4d8acf1533f8d8b1f4cae83f4}
-      \strng{fullhashraw}{40747fc4d8acf1533f8d8b1f4cae83f4}
-      \strng{bibnamehash}{40747fc4d8acf1533f8d8b1f4cae83f4}
-      \strng{authorbibnamehash}{40747fc4d8acf1533f8d8b1f4cae83f4}
-      \strng{authornamehash}{40747fc4d8acf1533f8d8b1f4cae83f4}
-      \strng{authorfullhash}{40747fc4d8acf1533f8d8b1f4cae83f4}
-      \strng{authorfullhashraw}{40747fc4d8acf1533f8d8b1f4cae83f4}
+      \strng{namehash}{7641d2eb11966e86333f6765e06df2f9}
+      \strng{fullhash}{7641d2eb11966e86333f6765e06df2f9}
+      \strng{fullhashraw}{7641d2eb11966e86333f6765e06df2f9}
+      \strng{bibnamehash}{7641d2eb11966e86333f6765e06df2f9}
+      \strng{authorbibnamehash}{7641d2eb11966e86333f6765e06df2f9}
+      \strng{authornamehash}{7641d2eb11966e86333f6765e06df2f9}
+      \strng{authorfullhash}{7641d2eb11966e86333f6765e06df2f9}
+      \strng{authorfullhashraw}{7641d2eb11966e86333f6765e06df2f9}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
@@ -1131,8 +1059,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Proceedings of the Ninth International Conference on Teaching Statistics}
-      \field{title}{{Teaching data science to secondary students: The mobilize introduction to data science curriculum}}
+      \field{journaltitle}{Iase-Web. Org}
+      \field{title}{Teaching data science to secondary students: The mobilize introduction to data science curriculum}
       \field{year}{2016}
     \endentry
     \entry{IPCC2021}{book}{}{}
