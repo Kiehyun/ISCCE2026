@@ -52,11 +52,13 @@
 \addbibresource{bibfile.bib}
 
 % Set bibliography font size to tiny
-\renewcommand*{\bibfont}{\tiny}
+% \renewcommand*{\bibfont}{\tiny}
+\renewcommand*{\bibfont}{\tiny\linespread{0.92}\selectfont}
 
 % Set hanging indent for bibliography entries (APA style)
 \setlength{\bibhang}{0.1in}  % Reduced hanging indent
-\setlength{\bibitemsep}{0.01em}
+\setlength{\bibitemsep}{-0.5pt}
+\setlength{\bibparsep}{-0.2pt}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Colours
@@ -66,7 +68,7 @@
 % define the three aau colors : blue version
 \definecolor{aaublue1}{RGB}{33,26,82}% dark blue
 \definecolor{aaublue2}{RGB}{113,109,143} % light blue
-\definecolor{aaublue3}{RGB}{194,193,204} % lighter blue
+\definecolor{aaublue3}{RGB}{217,233,243} % lighter blue (tinted from logo)
 
 
 %green 
@@ -146,7 +148,7 @@
     %the poster background color
     \fill[fill=aaublue3] (current page.north west) rectangle (current page.south east);
     %the header
-    \fill [fill=white] (current page.north west) rectangle ([yshift=-\headerheight] current page.north east);
+    \fill [fill=aaublue3] (current page.north west) rectangle ([yshift=-\headerheight] current page.north east);
   \end{tikzpicture}
 }
 % if you want to reduce the space before and after equations, use and adjust
@@ -172,7 +174,7 @@
   borderColor=aaublue1,
   headershape=rectangle,
   headershade=plain,
-  headerColorOne=white,
+  headerColorOne=aaublue3,
 %  headerColortwo=yellow!42, %is used when the header background is shaded
   textborder=rectangle,
   boxshade=plain,
@@ -587,11 +589,11 @@ This dataset combines exceptional temporal coverage with rigorous quality contro
     \begin{itemize}
     \item Demonstrated ability to access authoritative data sources
     % 권위 있는 데이터 출처에 접근하는 능력을 시연
-    \item correctly interpreted data quality indicators
+    \item Correctly interpreted data quality indicators
     % 데이터 품질 지표를 정확하게 해석
-    \item distinguished raw vs seasonally-adjusted data
+    \item Distinguished raw vs seasonally-adjusted data
     % 원시 데이터와 계절 조정 데이터를 구별
-    \item created appropriate visualizations
+    \item Created appropriate visualizations
     % 적절한 시각화를 생성
     \end{itemize}
     
@@ -603,26 +605,12 @@ This dataset combines exceptional temporal coverage with rigorous quality contro
     Students successfully executed Python code, modified code to answer new questions, wrote original code for calculations, and understood DataFrame operations.
     % 파이썬 코드를 성공적으로 실행하고, 새로운 질문에 답하기 위해 코드를 수정하며, 계산을 위한 독창적인 코드를 작성하고 DataFrame 연산을 이해
     
-    % \centering
-    % \includegraphics[trim=0 0 0 0, clip, width=0.9\linewidth]{images/06_keeling_curve_trend.png}
-    % \captionof{figure}{Student-created visualization showing both seasonal variation and 67-year increasing trend in atmospheric CO\textsubscript{2}}
-    % \label{fig:student_work}
-   
     \vspace{0.5em}
     \footnotesize
     \textbf{Engagement Metrics:}
     % 참여도 지표:
     \scriptsize
-    \begin{itemize}
-    \item increase in interest in climate science (pre/post survey)
-    % 기후 과학에 대한 관심 증가 (사전/사후 설문)
-    \item rated activity as ``interesting'' or ``very interesting''
-    % 활동을 "흥미롭다" 또는 "매우 흥미롭다"로 평가
-    \item preferred real data vs textbook examples
-    % 교과서 예시보다 실제 데이터를 선호
-    \item expressed interest in using Python for future projects
-    % 향후 프로젝트에 파이썬 사용에 관심 표명
-    \end{itemize}
+    Engagement increased across several indicators: higher interest in climate science and preference for real data over textbook examples, and expressed interest in using Python for future projects.
 
 \end{posterbox}
 
@@ -671,10 +659,8 @@ This dataset combines exceptional temporal coverage with rigorous quality contro
 % 학생들은 계산 도구를 사용하여 실제 과학 데이터셋과 성공적으로 상호작용함
 \item Direct data interaction significantly enhances understanding of climate evidence
 % 직접적인 데이터 상호작용은 기후 증거에 대한 이해를 크게 향상시킴
-\item Data literacy skills are transferable to other scientific contexts
-% 데이터 리터러시 기술은 다른 과학적 맥락으로 전이 가능
-\item Aligns with NGSS standards for science practices \parencite{NGSS2013}
-% NGSS 과학 실천 표준과 일치
+\item Data literacy skills are transferable to other scientific contexts and align with NGSS standards for science practices \parencite{NGSS2013}
+% 데이터 리터러시 기술은 다른 과학적 맥락으로 전이 가능하며 NGSS 과학 실천 표준과 일치
 \end{enumerate}
 
 \vspace{0.5em}
@@ -708,20 +694,15 @@ By developing data literacy through the iconic Keeling Curve dataset, students g
 % In the last box, you will usually have a list of references
 % The bibliography automatically adds the title "References", but
 % this have been removed in the preamble
-
 \tiny
 \printbibliography[heading=none] 
 
-\vspace{1em}
-
-\vspace{0.5em}
+\vspace{-1.2em}
 \textbf{Data Availability:} 
 % 데이터 가용성:
 All Jupyter notebooks and educational materials are available at: \\
 % 모든 주피터 노트북과 교육 자료는 다음에서 이용 가능:
-\texttt{github.com/[repository-link]}
-
-\vspace{0.5em}
+\texttt{github.com/[https://github.com/Kiehyun/ISCCE2026]}
 
 \tiny
 Atmospheric CO\textsubscript{2} data courtesy of Scripps CO\textsubscript{2} Program, Scripps Institution of Oceanography, UC San Diego (\url{https://scrippsco2.ucsd.edu/}).
