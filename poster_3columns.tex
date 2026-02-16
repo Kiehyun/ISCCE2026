@@ -50,6 +50,9 @@
 ]{biblatex}
 \DeclareLanguageMapping{english}{american-apa}
 \addbibresource{bibfile.bib}
+\ExecuteBibliographyOptions{doi=true,url=true}
+\DeclareFieldFormat{doi}{\href{https://doi.org/#1}{https://doi.org/#1}}
+\DeclareFieldFormat{url}{\href{#1}{\nolinkurl{#1}}}
 
 % Set bibliography font size to tiny
 % \renewcommand*{\bibfont}{\tiny}
@@ -129,12 +132,21 @@
 }
 % create links
 \usepackage{url}
-%note that the hyperref package is currently incompatible with the baposter class
+\Urlmuskip=0mu plus 1mu
+\def\UrlBreaks{\do\/\do-\do_}
+\usepackage{xurl}
+\usepackage[hidelinks]{hyperref}
+\hypersetup{colorlinks=true,linkcolor=black,citecolor=black,urlcolor=knueblue,breaklinks=true}
+\urlstyle{same}
+%note: hyperref may be unstable with baposter; if issues occur, disable it
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Macros
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newcommand{\alert}[1]{{\color{aaublue1}#1}}
+
+% Stable (unbroken) URL targets for multi-line clickable links
+\newcommand{\DataAvailURL}{https://github.com/Kiehyun/ISCCE2026/blob/main/appendix/The_Keeling_Curve_in_Action.ipynb}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Document Start 
@@ -213,27 +225,27 @@
 
 \begin{posterbox}[name=intro,column=0,row=0,span=2]{Abstract}
 \footnotesize
-Climate change education requires students to develop data literacy skills to critically evaluate evidence. 
-% 기후변화 교육은 학생들이 증거를 비판적으로 평가하기 위한 데이터 리터러시 기술을 개발할 것을 요구한다.
-This study presents a Python-based educational approach using authentic atmospheric carbon dioxide (CO\textsubscript{2}) data from the Keeling Curve to develop Earth science data literacy among secondary school students. 
-% 본 연구는 킬링 곡선의 실제 대기 이산화탄소(CO2) 데이터를 사용하는 파이썬 기반 교육 접근법을 제시하여 중등학교 학생들의 지구과학 데이터 리터러시를 개발한다.
-Students engage with 67 years of continuous measurements from Mauna Loa Observatory, learning to access authoritative data sources, apply computational tools for visualization and analysis, and understand the relationship between data and scientific conclusions about climate change. 
-% 학생들은 마우나 로아 관측소의 67년간 연속 측정 데이터를 다루면서, 권위 있는 데이터 출처에 접근하고, 시각화 및 분석을 위한 계산 도구를 적용하며, 데이터와 기후변화에 대한 과학적 결론 간의 관계를 이해하는 것을 학습한다.
-Assessment results demonstrate significant improvements in students' ability to interpret scientific data and understand measurement uncertainty \parencite{Kjelvik2019,Gould2016}.
-% 평가 결과는 학생들의 과학 데이터 해석 능력과 측정 불확실성 이해에서 유의미한 향상을 보여준다.
+Climate change education requires data literacy to critically evaluate evidence. 
+% 기후변화 교육은 증거를 비판적으로 평가하기 위한 데이터 리터러시를 요구한다.
+This study presents a Python-based module using authentic atmospheric carbon dioxide (CO\textsubscript{2}) data from the Keeling Curve to build science data literacy in secondary school students. 
+% 본 연구는 킬링 곡선의 실제 대기 이산화탄소(CO2) 데이터를 활용한 파이썬 기반 모듈을 제시하여 중등 학생의 과학 데이터 리터러시를 함양한다.
+Students analyze 67 years of Mauna Loa measurements, learn to access authoritative sources, apply computational visualization and analysis, and connect data to climate change conclusions. 
+% 학생들은 마우나 로아 관측소의 67년간 측정 자료를 분석하면서 권위 있는 출처에 접근하고, 계산 기반 시각화·분석을 적용하며, 데이터와 기후변화 결론의 연계를 이해한다.
+Assessments show significant gains in interpreting scientific data and understanding measurement uncertainty \parencite{Kjelvik2019,Gould2016}.
+% 평가는 학생들의 과학 데이터 해석 능력과 측정 불확실성 이해에서 유의미한 향상을 보여준다.
 \end{posterbox}
 
 \begin{posterbox}[name=usage,column=0,below=intro]{Introduction}
 \footnotesize
 \textbf{Background:} 
 % 배경:
-The Keeling Curve, documenting atmospheric CO\textsubscript{2} concentrations since 1958, provides one of the most powerful datasets for climate change education \parencite{Keeling1960,Keeling1976}. 
-% 1958년 이래 대기 CO2 농도를 기록한 킬링 곡선은 기후변화 교육을 위한 가장 강력한 데이터셋 중 하나를 제공한다.
-However, many students lack the data literacy skills necessary to critically engage with such scientific evidence.
-% 그러나, 많은 학생들은 이러한 과학적 증거와 비판적으로 상호작용하는 데 필요한 데이터 리터러시 기술이 부족하다.
-\vspace{-0.5em}
+The Keeling Curve has documented atmospheric CO\textsubscript{2} since 1958 and is a cornerstone dataset for climate change education \parencite{Keeling1960,Keeling1976}. 
+% 1958년 이래 대기 CO2 농도를 기록한 킬링 곡선은 기후변화 교육의 핵심 데이터셋이다.
+Yet many students lack the data literacy needed to critically engage with such evidence.
+% 그러나 많은 학생들은 이러한 증거와 비판적으로 상호작용하는 데 필요한 데이터 리터러시가 부족하다.
+\vspace{-0.2em}
 \begin{center}
-\includegraphics[width=0.85\linewidth]{images/06_keeling_curve_trend.pdf}
+\includegraphics[trim=0 0 0 25, clip, width=0.95\linewidth]{images/06_keeling_curve_trend.pdf}
 \captionof{figure}{Example of Keeling Curve visualization showing seasonal variation and long-term trend}
 % 그림: 계절적 변동과 장기 추세를 보여주는 킬링 곡선 시각화 예시
 \label{fig:keeling}
@@ -243,14 +255,14 @@ However, many students lack the data literacy skills necessary to critically eng
 % 데이터 리터러시가 중요한 이유:
 Data literacy—the ability to read, work with, analyze, and argue with data \parencite{Wolff2016}—is essential for understanding climate science.
 % 데이터 리터러시—데이터를 읽고, 다루고, 분석하고, 논증하는 능력—는 기후 과학을 이해하는 데 필수적이다.
-Students must move beyond passive consumption to actively engage with primary data sources \parencite{NRC2012}.
+Students must move beyond passive consumption and actively engage with primary data sources \parencite{NRC2012}.
 % 학생들은 수동적 소비를 넘어 1차 데이터 출처와 능동적으로 상호작용해야 한다.
 \vspace{0.5em}
 
 \textbf{Role of Computation:} 
 % 계산의 역할:
-Python and Jupyter notebooks provide accessible tools for students to engage with authentic scientific datasets, developing both conceptual understanding and practical skills \parencite{Barba2019,Weintrop2016}.
-% 파이썬과 주피터 노트북은 학생들이 실제 과학 데이터셋과 상호작용할 수 있는 접근 가능한 도구를 제공하여, 개념적 이해와 실용적 기술을 모두 개발한다.
+Python and Jupyter notebooks make authentic datasets accessible and support both conceptual understanding and practical skills \parencite{Barba2019,Weintrop2016}.
+% 파이썬과 주피터 노트북은 실제 과학 데이터셋에 쉽게 접근하게 하며, 개념적 이해와 실용적 기술을 함께 지원한다.
 
 \end{posterbox}
 
@@ -276,23 +288,12 @@ Students will be able to:
 \footnotesize \textbf{2. The 5E Instructional Model} 
 % 2. 5E 교수 모형
 \scriptsize
-This module follows the evidence-based 5E framework \parencite{Bybee2006}:
-% 본 모듈은 증거 기반 5E 프레임워크를 따른다:
-
-% \textbf{Engage:} Introduction to Keeling Curve history
-% % 참여: 킬링 곡선 역사 소개
-% \textbf{Explore:} Hands-on data download and visualization
-% % 탐구: 실습으로 데이터 다운로드 및 시각화
-% \textbf{Explain:} Understanding patterns and trends
-% % 설명: 패턴과 추세 이해하기
-% \textbf{Elaborate:} Advanced analysis and calculations
-% % 정교화: 고급 분석 및 계산
-% \textbf{Evaluate:} Student-designed investigations
-% % 평가: 학생 설계 탐구
+This module follows the evidence-based 5E instructional framework \parencite{Bybee2006}:
+% 본 모듈은 증거 기반 5E 교수 프레임워크를 따른다:
 
 \vspace{-1.0em}
 \begin{center}
-\resizebox{0.75\textwidth}{!}{
+\resizebox{0.80\textwidth}{!}{
 \begin{tikzpicture}[every node/.style={font=\scriptsize}]
   % Define colors for each phase
   \definecolor{engage}{RGB}{255,182,193}
@@ -358,10 +359,10 @@ This approach aligns with Next Generation Science Standards (NGSS), emphasizing 
 \footnotesize \textbf{4. The Keeling Curve Dataset} 
 % 4. 킬링 곡선 데이터셋
 \scriptsize
-The Scripps CO\textsubscript{2} Program's continuous atmospheric measurements provide the longest high-precision record of atmospheric carbon dioxide, serving as the foundation for understanding anthropogenic climate change. 
-% 스크립스 CO2 프로그램의 연속적인 대기 측정은 대기 중 이산화탄소의 가장 긴 고정밀도 기록을 제공하며, 인위적 기후변화 이해의 기반이 된다.
-This dataset combines exceptional temporal coverage with rigorous quality control, making it ideal for educational applications.
-% 이 데이터셋은 뛰어난 시간적 범위와 엄격한 품질 관리를 결합하여 교육적 활용에 이상적이다.
+The Scripps CO\textsubscript{2} Program provides the longest high-precision record of atmospheric carbon dioxide and underpins understanding of anthropogenic climate change. 
+% 스크립스 CO2 프로그램은 대기 이산화탄소의 가장 긴 고정밀도 기록을 제공하며, 인위적 기후변화 이해의 기반이 된다.
+Its long time span and rigorous quality control make it well suited for educational applications.
+% 이 데이터셋은 긴 시간 범위와 엄격한 품질 관리를 갖추어 교육적 활용에 적합하다.
 
 \begin{itemize}
 \item \textbf{Source:} Scripps CO\textsubscript{2} Program, Mauna Loa Observatory
@@ -411,19 +412,19 @@ This dataset combines exceptional temporal coverage with rigorous quality contro
       % Activity 1 (Top Left)
       \node[draw, rounded corners, fill=activity1, minimum width=4.2cm, minimum height=2.2cm, thick, text width=3.8cm, align=left, inner sep=0.15cm] (act1) at (0,0) {
         \textbf{\textcolor{red!50!black}{Activity 1: Data Acquisition}} \\[0.2em]
-        Students download real CO\textsubscript{2} data from \textcolor{red!70!black}{Mauna Loa Observatory}, examine file structure and metadata, and understand data quality indicators.
+        Students download CO\textsubscript{2} data from \textcolor{red!70!black}{Mauna Loa Observatory}, examine file structure and metadata, and interpret data quality indicators.
       };
       
       % Activity 2 (Top Right)
       \node[draw, rounded corners, fill=activity2, minimum width=4.2cm, minimum height=2.2cm, thick, text width=3.8cm, align=left, inner sep=0.15cm] (act2) at (4.6,0) {
         \textbf{\textcolor{blue!50!black}{Activity 2: Basic Visualization}} \\[0.2em]
-        Create time series plots to identify the annual \textcolor{blue!70!black}{``breathing'' pattern} caused by Northern Hemisphere vegetation cycles.
+        Create time-series plots to identify the annual \textcolor{blue!70!black}{``breathing'' pattern} driven by Northern Hemisphere vegetation cycles.
       };
       
       % Activity 4 (Bottom Left)
       \node[draw, rounded corners, fill=activity4, minimum width=4.2cm, minimum height=2.2cm, thick, text width=3.8cm, align=left, inner sep=0.15cm] (act4) at (0,-2.6) {
         \textbf{\textcolor{orange!50!black}{Activity 4: Global Comparison}} \\[0.2em]
-        Compare measurements from multiple stations (\textcolor{orange!70!black}{South Pole, Alaska, Hawaii}) to understand spatial variability.
+        Compare measurements across stations (\textcolor{orange!70!black}{South Pole, Alaska, Hawaii}) to examine spatial variability.
       };
       
       % Activity 3 (Bottom Right)
@@ -449,13 +450,13 @@ This dataset combines exceptional temporal coverage with rigorous quality contro
 \vspace{-0.8em}
 \begin{center}
 \includegraphics[trim=0 0 0 50, clip, width=0.8\linewidth]{images/seasonal_variation_2000_2002.pdf}
-\captionof{figure}{Keeling Curve: Seasonal Variation Detail (2000-2002) Understanding Earth\'s "Breathing" Pattern}
+\captionof{figure}{Keeling Curve seasonal variation detail (2000-2002): understanding Earth\'s "breathing" pattern}
 \label{fig:seasonal variation}
 \end{center}
 
 \vspace{-1.2em}
 \begin{center}
-\includegraphics[trim=0 0 0 50, clip, width=0.8\linewidth]{images/co2_three_stations_combined.pdf}
+\includegraphics[trim=0 0 0 50, clip, width=0.95\linewidth]{images/co2_three_stations_combined.pdf}
 \captionof{figure}{Comparison of atmospheric CO\textsubscript{2} across Mauna Loa, Point Barrow, and the South Pole}
 \label{fig:3stations}
 \end{center}
@@ -470,8 +471,8 @@ This dataset combines exceptional temporal coverage with rigorous quality contro
     \textbf{Critical Thinking Questions}
     % 비판적 사고 질문
     \scriptsize
-    Throughout the activities, students engage with questions that develop analytical thinking \parencite{Chinn2002}:
-    % 활동 전반에 걸쳐, 학생들은 분석적 사고를 개발하는 질문에 참여한다:
+    Throughout the activities, students address questions that cultivate analytical thinking \parencite{Chinn2002}:
+    % 활동 전반에 걸쳐 학생들은 분석적 사고를 기르는 질문에 답한다:
     
     \begin{itemize}
     \item Why was Mauna Loa chosen as the measurement location?
@@ -540,8 +541,8 @@ This dataset combines exceptional temporal coverage with rigorous quality contro
     \textbf{Real-World Connections}
     % 실제 세계와의 연결
     \scriptsize
-    Students contextualize their findings \parencite{Monroe2019}:
-    % 학생들은 자신의 발견을 맥락화한다:
+    Students situate their findings in real-world benchmarks \parencite{Monroe2019}:
+    % 학생들은 자신의 발견을 실제 기준과 연결한다:
     \begin{itemize}
     \item Pre-industrial CO\textsubscript{2}: 280 ppm
     % 산업화 이전 CO2: 280 ppm
@@ -549,7 +550,7 @@ This dataset combines exceptional temporal coverage with rigorous quality contro
     % 킬링 측정 시작 (1958): 315 ppm
     \item Current level (2024): 422.5 ppm
     % 현재 수준 (2024): 422.5 ppm
-    \item \textbf{52\% increase since industrial revolution}
+    \item \textbf{52\% increase since the Industrial Revolution}
     % 산업혁명 이후 52% 증가
     \end{itemize}
 
@@ -563,8 +564,8 @@ This dataset combines exceptional temporal coverage with rigorous quality contro
     \footnotesize \textbf{Student Learning Outcomes} 
     % 학생 학습 성과
     \scriptsize 
-    Assessment of 36 12th-grade students at a science-gifted high school who completed the module showed significant improvements across multiple dimensions \parencite{Pellegrino2013}.
-    % 모듈을 완료한 과학영재학교 3학년(12학년) 36명에 대한 평가는 여러 차원에서 유의미한 향상을 보여주었다.
+    Assessments of 36 12th-grade students at a science-gifted high school showed significant gains across multiple dimensions \parencite{Pellegrino2013}.
+    % 과학영재학교 3학년(12학년) 36명에 대한 평가는 여러 차원에서 유의미한 향상을 보여주었다.
     
     \vspace{0.5em}
     \footnotesize
@@ -603,15 +604,16 @@ This dataset combines exceptional temporal coverage with rigorous quality contro
     \textbf{Computational Competency:}
     % 계산 역량:
     \scriptsize
-    Students successfully executed Python code, modified code to answer new questions, wrote original code for calculations, and understood DataFrame operations.
-    % 파이썬 코드를 성공적으로 실행하고, 새로운 질문에 답하기 위해 코드를 수정하며, 계산을 위한 독창적인 코드를 작성하고 DataFrame 연산을 이해
+    Students executed Python code, modified it to answer new questions, wrote original code for calculations, and applied DataFrame operations.
+    % 파이썬 코드를 실행하고, 새로운 질문에 답하기 위해 코드를 수정하며, 계산을 위한 코드를 작성하고 DataFrame 연산을 적용함
     
     \vspace{0.5em}
     \footnotesize
     \textbf{Engagement Metrics:}
     % 참여도 지표:
     \scriptsize
-    Engagement increased across several indicators: higher interest in climate science, preference for real data over textbook examples, and expressed interest in using Python for future projects.
+    Engagement increased across indicators, including higher interest in climate science, preference for real data over textbook examples, and interest in using Python for future projects.
+    % 참여도는 기후 과학 관심 증가, 교과서 예시보다 실제 데이터 선호, 향후 파이썬 활용 관심으로 나타났다.
 
 \end{posterbox}
 
@@ -622,13 +624,13 @@ This dataset combines exceptional temporal coverage with rigorous quality contro
 % 접근법의 강점
 \scriptsize
 \begin{itemize}
-\item \textbf{Authentic Science:} Using real data from authoritative sources (Scripps Institution) provides genuine scientific experience \parencite{Kjelvik2019}
+\item \textbf{Authentic Science:} Using real data from authoritative sources (Scripps Institution) provides authentic scientific experience \parencite{Kjelvik2019}
 % 진정한 과학: 권위 있는 출처(스크립스 연구소)의 실제 데이터 사용은 진정한 과학적 경험을 제공
-\item \textbf{Scaffolded Learning:} Progressive complexity allows diverse learners to engage at appropriate levels
-% 비계화된 학습: 점진적 복잡성은 다양한 학습자가 적절한 수준에서 참여할 수 있게 함
+\item \textbf{Scaffolded Learning:} Progressive complexity allows learners to engage at appropriate levels
+% 비계화된 학습: 점진적 복잡성은 학습자가 적절한 수준에서 참여할 수 있게 함
 \item \textbf{Interdisciplinary:} Integrates Earth science, mathematics, computer science, and communication
 % 학제간 통합: 지구과학, 수학, 컴퓨터과학, 커뮤니케이션 통합
-\item \textbf{Evidence-Based:} Students see climate change in data, not just rhetoric \parencite{IPCC2021}
+\item \textbf{Evidence-Based:} Students see climate change in data rather than rhetoric \parencite{IPCC2021}
 % 증거 기반: 학생들은 단순한 수사가 아닌 데이터에서 기후변화를 보게 됨
 \end{itemize}
 
@@ -656,9 +658,9 @@ This dataset combines exceptional temporal coverage with rigorous quality contro
 % 핵심 발견
 \scriptsize
 \begin{enumerate}
-\item Students successfully engage with authentic scientific datasets using computational tools \parencite{Weintrop2016}
+\item Students engage successfully with authentic scientific datasets using computational tools \parencite{Weintrop2016}
 % 학생들은 계산 도구를 사용하여 실제 과학 데이터셋과 성공적으로 상호작용함
-\item Direct data interaction significantly enhances understanding of climate evidence
+\item Direct interaction with data significantly enhances understanding of climate evidence
 % 직접적인 데이터 상호작용은 기후 증거에 대한 이해를 크게 향상시킴
 \item Data literacy skills are transferable to other scientific contexts and align with NGSS standards for science practices \parencite{NGSS2013}
 % 데이터 리터러시 기술은 다른 과학적 맥락으로 전이 가능하며 NGSS 과학 실천 표준과 일치
@@ -668,10 +670,10 @@ This dataset combines exceptional temporal coverage with rigorous quality contro
 \footnotesize \textbf{Broader Significance}
 % 폭넓은 의미
 \scriptsize
-This approach demonstrates that climate change education can move beyond passive information consumption to active scientific inquiry. 
+This approach shows that climate change education can move beyond passive information consumption to active scientific inquiry. 
 % 이 접근법은 기후변화 교육이 수동적 정보 소비를 넘어 능동적 과학 탐구로 나아갈 수 있음을 보여줌.
-By developing data literacy through the iconic Keeling Curve dataset, students gain both conceptual understanding and practical skills essential for 21st-century citizenship \parencite{Monroe2019}.
-% 상징적인 킬링 곡선 데이터셋을 통해 데이터 리터러시를 개발함으로써, 학생들은 21세기 시민성에 필수적인 개념적 이해와 실용적 기술을 모두 얻게 됨.
+By building data literacy with the Keeling Curve dataset, students gain conceptual understanding and practical skills essential for 21st-century citizenship \parencite{Monroe2019}.
+% 킬링 곡선 데이터셋을 통해 데이터 리터러시를 함양함으로써, 학생들은 21세기 시민성에 필수적인 개념적 이해와 실용적 기술을 얻게 됨.
 
 \vspace{0.5em}
 \footnotesize \textbf{Future Directions}
@@ -703,10 +705,15 @@ By developing data literacy through the iconic Keeling Curve dataset, students g
 % 데이터 가용성:
 All Jupyter notebooks and educational materials are available at: \\
 % 모든 주피터 노트북과 교육 자료는 다음에서 이용 가능:
-\texttt{https://github.com/Kiehyun/ISCCE2026}
+\href{https://github.com/Kiehyun/ISCCE2026/blob/main/appendix/The_Keeling_Curve_in_Action.ipynb}{%
+  \parbox{\linewidth}{%
+    \nolinkurl{https://github.com/Kiehyun/ISCCE2026/blob/main/appendix/}\\
+    \nolinkurl{The_Keeling_Curve_in_Action.ipynb}%
+  }%
+}
 
 \tiny
-Atmospheric CO\textsubscript{2} data courtesy of Scripps CO\textsubscript{2} Program, Scripps Institution of Oceanography, UC San Diego (\url{https://scrippsco2.ucsd.edu/}).
+Atmospheric CO\textsubscript{2} data courtesy of Scripps CO\textsubscript{2} Program, Scripps Institution of Oceanography, UC San Diego (\href{https://scrippsco2.ucsd.edu/}{\nolinkurl{https://scrippsco2.ucsd.edu/}}).
 % 대기 CO2 데이터는 UC San Diego 소속 Scripps 해양학 연구소의 Scripps CO2 프로그램 제공
 
 \end{posterbox}
