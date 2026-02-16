@@ -1,0 +1,1645 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{Barba2019}{article}{}{}
+      \name{author}{16}{}{%
+        {{un=0,uniquepart=base,hash=9d540f51a15a44293916a1b2aa8cb8b7}{%
+           family={Barba},
+           familyi={B\bibinitperiod},
+           given={L.\bibnamedelimi A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ed4fd2ed17617474d4660d6edda2bb0}{%
+           family={Barker},
+           familyi={B\bibinitperiod},
+           given={L.\bibnamedelimi J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c868e7e28b1a87a6732f46becfdc259e}{%
+           family={Blank},
+           familyi={B\bibinitperiod},
+           given={D.\bibnamedelimi S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=25289088678a4ae9c74df9275c8ab269}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7550f4c4b73a91778c38a7a8b73605e}{%
+           family={Downey},
+           familyi={D\bibinitperiod},
+           given={A.\bibnamedelimi B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=66edb16f9ebe9cd7496030804e1127e9}{%
+           family={George},
+           familyi={G\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=755e4fc4b7d5e24efc4a36b99175744b}{%
+           family={Heagy},
+           familyi={H\bibinitperiod},
+           given={L.\bibnamedelimi J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7ace5f45a860287647fee3e511260e8c}{%
+           family={Mandli},
+           familyi={M\bibinitperiod},
+           given={K.\bibnamedelimi T.},
+           giveni={K\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=23ebc8e8ddbac7e5c664c4749328afcb}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={J.\bibnamedelimi K.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=643aece1ab37bcf364a6318c429683b3}{%
+           family={Lippert},
+           familyi={L\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b16ae4fee18f6e3c9f0e082853bbc72}{%
+           family={Niemeyer},
+           familyi={N\bibinitperiod},
+           given={K.\bibnamedelimi E.},
+           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a265a097e16963289fb47c3792326c91}{%
+           family={Watkins},
+           familyi={W\bibinitperiod},
+           given={R.\bibnamedelimi R.},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c1242305fbf2faf05317919ed42b2ade}{%
+           family={West},
+           familyi={W\bibinitperiod},
+           given={R.\bibnamedelimi H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fd14315c150b320669224e1f2f2e466c}{%
+           family={Wickes},
+           familyi={W\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b9ee2cc0c9765f776a2683d1a630bbd}{%
+           family={Willing},
+           familyi={W\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=32f4b568c5254863767c4fd5608b3bd6}{%
+           family={Zingale},
+           familyi={Z\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e0f7f36885eb7706b24255a530e7f455}
+      \strng{fullhash}{e0f7f36885eb7706b24255a530e7f455}
+      \strng{fullhashraw}{e0f7f36885eb7706b24255a530e7f455}
+      \strng{bibnamehash}{e0f7f36885eb7706b24255a530e7f455}
+      \strng{authorbibnamehash}{e0f7f36885eb7706b24255a530e7f455}
+      \strng{authornamehash}{e0f7f36885eb7706b24255a530e7f455}
+      \strng{authorfullhash}{e0f7f36885eb7706b24255a530e7f455}
+      \strng{authorfullhashraw}{e0f7f36885eb7706b24255a530e7f455}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Open Source Education}
+      \field{title}{{Teaching and learning with Jupyter}}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.21105/jose.00032
+      \endverb
+    \endentry
+    \entry{Bybee2006}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=9972179fc99d5b7b5f71278a2998ac95}{%
+           family={Bybee},
+           familyi={B\bibinitperiod},
+           given={R.\bibnamedelimi W.},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dd59c240891cc8d1b05cda06bc492dca}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={J.\bibnamedelimi A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5b35d25b74ba5e90c781422506015559}{%
+           family={Gardner},
+           familyi={G\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a68030e3ca80b90ed3069771312703a6}{%
+           family={Van\bibnamedelima Scotter},
+           familyi={V\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4cc7ede68f38bb03d9350fd81f9e9edf}{%
+           family={Powell},
+           familyi={P\bibinitperiod},
+           given={J.\bibnamedelimi C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0380fd59d0deb228cdfb52b42f0bfdca}{%
+           family={Westbrook},
+           familyi={W\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5b123d8789ea0656955e0494ff380c59}{%
+           family={Landes},
+           familyi={L\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{083242ffd04b443a880a2afae72c1615}
+      \strng{fullhash}{083242ffd04b443a880a2afae72c1615}
+      \strng{fullhashraw}{083242ffd04b443a880a2afae72c1615}
+      \strng{bibnamehash}{083242ffd04b443a880a2afae72c1615}
+      \strng{authorbibnamehash}{083242ffd04b443a880a2afae72c1615}
+      \strng{authornamehash}{083242ffd04b443a880a2afae72c1615}
+      \strng{authorfullhash}{083242ffd04b443a880a2afae72c1615}
+      \strng{authorfullhashraw}{083242ffd04b443a880a2afae72c1615}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Colorado Springs, CO: BSCS}
+      \field{title}{{The BSCS 5E instructional model: Origins and effectiveness}}
+      \field{volume}{5}
+      \field{year}{2006}
+      \field{pages}{88\bibrangedash 98}
+      \range{pages}{11}
+    \endentry
+    \entry{Chinn2002}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9dad6a5096b919c97497795cb7a5413e}{%
+           family={Chinn},
+           familyi={C\bibinitperiod},
+           given={C.\bibnamedelimi A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aeff1108c49a2bc56f7cbbb8492b8a81}{%
+           family={Malhotra},
+           familyi={M\bibinitperiod},
+           given={B.\bibnamedelimi A.},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ae3acba0b5ae0418f4f440dd6ba9aad5}
+      \strng{fullhash}{ae3acba0b5ae0418f4f440dd6ba9aad5}
+      \strng{fullhashraw}{ae3acba0b5ae0418f4f440dd6ba9aad5}
+      \strng{bibnamehash}{ae3acba0b5ae0418f4f440dd6ba9aad5}
+      \strng{authorbibnamehash}{ae3acba0b5ae0418f4f440dd6ba9aad5}
+      \strng{authornamehash}{ae3acba0b5ae0418f4f440dd6ba9aad5}
+      \strng{authorfullhash}{ae3acba0b5ae0418f4f440dd6ba9aad5}
+      \strng{authorfullhashraw}{ae3acba0b5ae0418f4f440dd6ba9aad5}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science Education}
+      \field{number}{2}
+      \field{title}{{Epistemologically authentic inquiry in schools: A theoretical framework for evaluating inquiry tasks}}
+      \field{volume}{86}
+      \field{year}{2002}
+      \field{pages}{175\bibrangedash 218}
+      \range{pages}{44}
+      \verb{doi}
+      \verb 10.1002/sce.10001
+      \endverb
+    \endentry
+    \entry{Gould2016}{article}{}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=0d0c4201a3e3df7c36671f7015cc6474}{%
+           family={Gould},
+           familyi={G\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b5a4b51f82130861833371fdea3f14c5}{%
+           family={Machado},
+           familyi={M\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e27485badf8d5a7575a7b5aca6397173}{%
+           family={Ong},
+           familyi={O\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e68c5fd89fd926beec66f4e899280378}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae897235aac374c53cb6accf5fb40058}{%
+           family={Molyneux},
+           familyi={M\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5864fe65ef3a1a5573093dfdf27e811a}{%
+           family={Nolen},
+           familyi={N\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fefeb314657aed74e3e9350d61d79bfc}{%
+           family={Tangmunarunkit},
+           familyi={T\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb477199c15cfb2b6f3612868938fc5e}{%
+           family={Trusela},
+           familyi={T\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8961c4549cfdf0c79ebef1596c2713cb}{%
+           family={Zanontian},
+           familyi={Z\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{40747fc4d8acf1533f8d8b1f4cae83f4}
+      \strng{fullhash}{40747fc4d8acf1533f8d8b1f4cae83f4}
+      \strng{fullhashraw}{40747fc4d8acf1533f8d8b1f4cae83f4}
+      \strng{bibnamehash}{40747fc4d8acf1533f8d8b1f4cae83f4}
+      \strng{authorbibnamehash}{40747fc4d8acf1533f8d8b1f4cae83f4}
+      \strng{authornamehash}{40747fc4d8acf1533f8d8b1f4cae83f4}
+      \strng{authorfullhash}{40747fc4d8acf1533f8d8b1f4cae83f4}
+      \strng{authorfullhashraw}{40747fc4d8acf1533f8d8b1f4cae83f4}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the Ninth International Conference on Teaching Statistics}
+      \field{title}{{Teaching data science to secondary students: The mobilize introduction to data science curriculum}}
+      \field{year}{2016}
+    \endentry
+    \entry{IPCC2021}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=676f7b9b8e5bb30500c01e2385e59174}{%
+           family={{IPCC}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Cambridge, UK}%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{676f7b9b8e5bb30500c01e2385e59174}
+      \strng{fullhash}{676f7b9b8e5bb30500c01e2385e59174}
+      \strng{fullhashraw}{676f7b9b8e5bb30500c01e2385e59174}
+      \strng{bibnamehash}{676f7b9b8e5bb30500c01e2385e59174}
+      \strng{authorbibnamehash}{676f7b9b8e5bb30500c01e2385e59174}
+      \strng{authornamehash}{676f7b9b8e5bb30500c01e2385e59174}
+      \strng{authorfullhash}{676f7b9b8e5bb30500c01e2385e59174}
+      \strng{authorfullhashraw}{676f7b9b8e5bb30500c01e2385e59174}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change}}
+      \field{year}{2021}
+    \endentry
+    \entry{Keeling1976}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=d79f6c0e8aa3581b13fecca1aec00c07}{%
+           family={Keeling},
+           familyi={K\bibinitperiod},
+           given={C.\bibnamedelimi D.},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9bca9e66c9f736be49fbfe5830794f8c}{%
+           family={Bacastow},
+           familyi={B\bibinitperiod},
+           given={R.\bibnamedelimi B.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f838bc29d4459aa9fc854c71aa0c8cde}{%
+           family={Bainbridge},
+           familyi={B\bibinitperiod},
+           given={A.\bibnamedelimi E.},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9d907cefcd4ecb07a532c2cd4b33bf46}{%
+           family={Ekdahl},
+           familyi={E\bibinitperiod},
+           given={C.\bibnamedelimi A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a5e64043951787dce98fffecffb5e547}{%
+           family={Guenther},
+           familyi={G\bibinitperiod},
+           given={P.\bibnamedelimi R.},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a506c543d156f851188d8cb86a0f8c68}{%
+           family={Waterman},
+           familyi={W\bibinitperiod},
+           given={L.\bibnamedelimi S.},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=70cc46cd9984c90df097fe14c1ba53ca}{%
+           family={Chin},
+           familyi={C\bibinitperiod},
+           given={J.\bibnamedelimi F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f6f1411c89267deb049eff5dbe81ac3c}
+      \strng{fullhash}{f6f1411c89267deb049eff5dbe81ac3c}
+      \strng{fullhashraw}{f6f1411c89267deb049eff5dbe81ac3c}
+      \strng{bibnamehash}{f6f1411c89267deb049eff5dbe81ac3c}
+      \strng{authorbibnamehash}{f6f1411c89267deb049eff5dbe81ac3c}
+      \strng{authornamehash}{f6f1411c89267deb049eff5dbe81ac3c}
+      \strng{authorfullhash}{f6f1411c89267deb049eff5dbe81ac3c}
+      \strng{authorfullhashraw}{f6f1411c89267deb049eff5dbe81ac3c}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Tellus}
+      \field{number}{6}
+      \field{title}{{Atmospheric carbon dioxide variations at Mauna Loa Observatory, Hawaii}}
+      \field{volume}{28}
+      \field{year}{1976}
+      \field{pages}{538\bibrangedash 551}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1111/j.2153-3490.1976.tb00701.x
+      \endverb
+    \endentry
+    \entry{Keeling1960}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3ad9a6a68c8261fb68abbfb97d9f3761}{%
+           family={Keeling},
+           familyi={K\bibinitperiod},
+           given={Charles\bibnamedelima D.},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3ad9a6a68c8261fb68abbfb97d9f3761}
+      \strng{fullhash}{3ad9a6a68c8261fb68abbfb97d9f3761}
+      \strng{fullhashraw}{3ad9a6a68c8261fb68abbfb97d9f3761}
+      \strng{bibnamehash}{3ad9a6a68c8261fb68abbfb97d9f3761}
+      \strng{authorbibnamehash}{3ad9a6a68c8261fb68abbfb97d9f3761}
+      \strng{authornamehash}{3ad9a6a68c8261fb68abbfb97d9f3761}
+      \strng{authorfullhash}{3ad9a6a68c8261fb68abbfb97d9f3761}
+      \strng{authorfullhashraw}{3ad9a6a68c8261fb68abbfb97d9f3761}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Tellus}
+      \field{number}{2}
+      \field{title}{{The concentration and isotopic abundances of carbon dioxide in the atmosphere}}
+      \field{volume}{12}
+      \field{year}{1960}
+      \field{pages}{200\bibrangedash 203}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1111/j.2153-3490.1960.tb01300.x
+      \endverb
+    \endentry
+    \entry{Kjelvik2019}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9b1e212db5be303afb0a1ede0ac534cf}{%
+           family={Kjelvik},
+           familyi={K\bibinitperiod},
+           given={M.\bibnamedelimi K.},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aedc0e2bfc26f6802395bd20ee0fee4b}{%
+           family={Schultheis},
+           familyi={S\bibinitperiod},
+           given={E.\bibnamedelimi H.},
+           giveni={E\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d90da9a4bec962287c290ca66599b13a}
+      \strng{fullhash}{d90da9a4bec962287c290ca66599b13a}
+      \strng{fullhashraw}{d90da9a4bec962287c290ca66599b13a}
+      \strng{bibnamehash}{d90da9a4bec962287c290ca66599b13a}
+      \strng{authorbibnamehash}{d90da9a4bec962287c290ca66599b13a}
+      \strng{authornamehash}{d90da9a4bec962287c290ca66599b13a}
+      \strng{authorfullhash}{d90da9a4bec962287c290ca66599b13a}
+      \strng{authorfullhashraw}{d90da9a4bec962287c290ca66599b13a}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CBE—Life Sciences Education}
+      \field{number}{2}
+      \field{title}{{Getting messy with authentic data: exploring the potential of using data from scientific research to support student data literacy}}
+      \field{volume}{18}
+      \field{year}{2019}
+      \field{pages}{es2}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1187/cbe.18-02-0023
+      \endverb
+    \endentry
+    \entry{Monroe2019}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=a7a0155622a6b94c769a2447fcb881db}{%
+           family={Monroe},
+           familyi={M\bibinitperiod},
+           given={M.\bibnamedelimi C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=913184d3f180d680d79a6f7cb655bff8}{%
+           family={Plate},
+           familyi={P\bibinitperiod},
+           given={R.\bibnamedelimi R.},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=00ff9a0434f9cd35664f03225c3a6f46}{%
+           family={Oxarart},
+           familyi={O\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cee9bbd95c845b401ce25e7df8840b2e}{%
+           family={Bowers},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc00297b2fa04c770841c79caf058b23}{%
+           family={Chaves},
+           familyi={C\bibinitperiod},
+           given={W.\bibnamedelimi A.},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5c96cbe1fc422897b40ed84addd550ca}
+      \strng{fullhash}{5c96cbe1fc422897b40ed84addd550ca}
+      \strng{fullhashraw}{5c96cbe1fc422897b40ed84addd550ca}
+      \strng{bibnamehash}{5c96cbe1fc422897b40ed84addd550ca}
+      \strng{authorbibnamehash}{5c96cbe1fc422897b40ed84addd550ca}
+      \strng{authornamehash}{5c96cbe1fc422897b40ed84addd550ca}
+      \strng{authorfullhash}{5c96cbe1fc422897b40ed84addd550ca}
+      \strng{authorfullhashraw}{5c96cbe1fc422897b40ed84addd550ca}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environmental Education Research}
+      \field{number}{6}
+      \field{title}{{Identifying effective climate change education strategies: A systematic review of the research}}
+      \field{volume}{25}
+      \field{year}{2019}
+      \field{pages}{791\bibrangedash 812}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1080/13504622.2017.1360842
+      \endverb
+    \endentry
+    \entry{NRC2012}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=542dbf807c6825455f75670116436ebd}{%
+           family={{National Research Council}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Washington, DC}%
+      }
+      \list{publisher}{1}{%
+        {National Academies Press}%
+      }
+      \strng{namehash}{542dbf807c6825455f75670116436ebd}
+      \strng{fullhash}{542dbf807c6825455f75670116436ebd}
+      \strng{fullhashraw}{542dbf807c6825455f75670116436ebd}
+      \strng{bibnamehash}{542dbf807c6825455f75670116436ebd}
+      \strng{authorbibnamehash}{542dbf807c6825455f75670116436ebd}
+      \strng{authornamehash}{542dbf807c6825455f75670116436ebd}
+      \strng{authorfullhash}{542dbf807c6825455f75670116436ebd}
+      \strng{authorfullhashraw}{542dbf807c6825455f75670116436ebd}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{A Framework for K-12 Science Education: Practices, Crosscutting Concepts, and Core Ideas}}
+      \field{year}{2012}
+    \endentry
+    \entry{NGSS2013}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9b9d83316495cdd47b719d5d1fac9f03}{%
+           family={{NGSS Lead States}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Washington, DC}%
+      }
+      \list{publisher}{1}{%
+        {The National Academies Press}%
+      }
+      \strng{namehash}{9b9d83316495cdd47b719d5d1fac9f03}
+      \strng{fullhash}{9b9d83316495cdd47b719d5d1fac9f03}
+      \strng{fullhashraw}{9b9d83316495cdd47b719d5d1fac9f03}
+      \strng{bibnamehash}{9b9d83316495cdd47b719d5d1fac9f03}
+      \strng{authorbibnamehash}{9b9d83316495cdd47b719d5d1fac9f03}
+      \strng{authornamehash}{9b9d83316495cdd47b719d5d1fac9f03}
+      \strng{authorfullhash}{9b9d83316495cdd47b719d5d1fac9f03}
+      \strng{authorfullhashraw}{9b9d83316495cdd47b719d5d1fac9f03}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Next Generation Science Standards: For States, By States}}
+      \field{year}{2013}
+    \endentry
+    \entry{Pellegrino2013}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8a45a7366245991fdacba3fc2b98ac46}{%
+           family={Pellegrino},
+           familyi={P\bibinitperiod},
+           given={J.\bibnamedelimi W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8a45a7366245991fdacba3fc2b98ac46}
+      \strng{fullhash}{8a45a7366245991fdacba3fc2b98ac46}
+      \strng{fullhashraw}{8a45a7366245991fdacba3fc2b98ac46}
+      \strng{bibnamehash}{8a45a7366245991fdacba3fc2b98ac46}
+      \strng{authorbibnamehash}{8a45a7366245991fdacba3fc2b98ac46}
+      \strng{authornamehash}{8a45a7366245991fdacba3fc2b98ac46}
+      \strng{authorfullhash}{8a45a7366245991fdacba3fc2b98ac46}
+      \strng{authorfullhashraw}{8a45a7366245991fdacba3fc2b98ac46}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science}
+      \field{number}{6130}
+      \field{title}{{Proficiency in science: Assessment challenges and opportunities}}
+      \field{volume}{340}
+      \field{year}{2013}
+      \field{pages}{320\bibrangedash 323}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1126/science.1232065
+      \endverb
+    \endentry
+    \entry{Thoning1989}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f8708c01215715e6e11c6fb3b5c7a371}{%
+           family={Thoning},
+           familyi={T\bibinitperiod},
+           given={K.\bibnamedelimi W.},
+           giveni={K\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b9c576b7a76b57db7a1905810ffad11}{%
+           family={Tans},
+           familyi={T\bibinitperiod},
+           given={P.\bibnamedelimi P.},
+           giveni={P\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f22683becac634f9efd9d751e367f5fa}{%
+           family={Komhyr},
+           familyi={K\bibinitperiod},
+           given={W.\bibnamedelimi D.},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7c7177851f3a9ab7b11f769e4ccc20d9}
+      \strng{fullhash}{7c7177851f3a9ab7b11f769e4ccc20d9}
+      \strng{fullhashraw}{7c7177851f3a9ab7b11f769e4ccc20d9}
+      \strng{bibnamehash}{7c7177851f3a9ab7b11f769e4ccc20d9}
+      \strng{authorbibnamehash}{7c7177851f3a9ab7b11f769e4ccc20d9}
+      \strng{authornamehash}{7c7177851f3a9ab7b11f769e4ccc20d9}
+      \strng{authorfullhash}{7c7177851f3a9ab7b11f769e4ccc20d9}
+      \strng{authorfullhashraw}{7c7177851f3a9ab7b11f769e4ccc20d9}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Geophysical Research: Atmospheres}
+      \field{number}{D6}
+      \field{title}{{Atmospheric carbon dioxide at Mauna Loa Observatory: 2. Analysis of the NOAA GMCC data, 1974-1985}}
+      \field{volume}{94}
+      \field{year}{1989}
+      \field{pages}{8549\bibrangedash 8565}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1029/JD094iD06p08549
+      \endverb
+    \endentry
+    \entry{Weintrop2016}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=e9cae749b3b45724dd469a784cf9adf2}{%
+           family={Weintrop},
+           familyi={W\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0639496eba8d8362228002339f90900d}{%
+           family={Beheshti},
+           familyi={B\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7912dd17dbe9245ddbb3a577e1d8dd19}{%
+           family={Horn},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6fd289b191b09f75c90023cd8791ff51}{%
+           family={Orton},
+           familyi={O\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9d7d38bfc988a92ea569f2b1c25d97f0}{%
+           family={Jona},
+           familyi={J\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8833936bc1bae15544fee70d20b55999}{%
+           family={Trouille},
+           familyi={T\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15f212be3e50bbade3fe5a086ff50000}{%
+           family={Wilensky},
+           familyi={W\bibinitperiod},
+           given={U.},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{11fd094917cc8a0954758c29a1225c0e}
+      \strng{fullhash}{11fd094917cc8a0954758c29a1225c0e}
+      \strng{fullhashraw}{11fd094917cc8a0954758c29a1225c0e}
+      \strng{bibnamehash}{11fd094917cc8a0954758c29a1225c0e}
+      \strng{authorbibnamehash}{11fd094917cc8a0954758c29a1225c0e}
+      \strng{authornamehash}{11fd094917cc8a0954758c29a1225c0e}
+      \strng{authorfullhash}{11fd094917cc8a0954758c29a1225c0e}
+      \strng{authorfullhashraw}{11fd094917cc8a0954758c29a1225c0e}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Science Education and Technology}
+      \field{number}{1}
+      \field{title}{{Defining computational thinking for mathematics and science classrooms}}
+      \field{volume}{25}
+      \field{year}{2016}
+      \field{pages}{127\bibrangedash 147}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1007/s10956-015-9581-5
+      \endverb
+    \endentry
+    \entry{Wolff2016}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=71b17f090ec930f575bcfa018a28af2e}{%
+           family={Wolff},
+           familyi={W\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eebb5f53c136c73a078cfb0ec9b76ef2}{%
+           family={Gooch},
+           familyi={G\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=55b669cd7462326e67a7cd09e14668ad}{%
+           family={Cavero\bibnamedelima Montaner},
+           familyi={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={J.\bibnamedelimi J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=37c08d2ec03e672af8620281d02cf42b}{%
+           family={Rashid},
+           familyi={R\bibinitperiod},
+           given={U.},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6f0fdeef38e3b3c8e97da1c67654fe40}{%
+           family={Kortuem},
+           familyi={K\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e4bdcedc70f41a28d8cc22448f095533}
+      \strng{fullhash}{e4bdcedc70f41a28d8cc22448f095533}
+      \strng{fullhashraw}{e4bdcedc70f41a28d8cc22448f095533}
+      \strng{bibnamehash}{e4bdcedc70f41a28d8cc22448f095533}
+      \strng{authorbibnamehash}{e4bdcedc70f41a28d8cc22448f095533}
+      \strng{authornamehash}{e4bdcedc70f41a28d8cc22448f095533}
+      \strng{authorfullhash}{e4bdcedc70f41a28d8cc22448f095533}
+      \strng{authorfullhashraw}{e4bdcedc70f41a28d8cc22448f095533}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Community Informatics}
+      \field{number}{3}
+      \field{title}{{Creating an understanding of data literacy for a data-driven society}}
+      \field{volume}{12}
+      \field{year}{2016}
+      \field{pages}{9\bibrangedash 26}
+      \range{pages}{18}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{Barba2019}{article}{}{}
+      \name{author}{16}{}{%
+        {{un=0,uniquepart=base,hash=9d540f51a15a44293916a1b2aa8cb8b7}{%
+           family={Barba},
+           familyi={B\bibinitperiod},
+           given={L.\bibnamedelimi A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ed4fd2ed17617474d4660d6edda2bb0}{%
+           family={Barker},
+           familyi={B\bibinitperiod},
+           given={L.\bibnamedelimi J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c868e7e28b1a87a6732f46becfdc259e}{%
+           family={Blank},
+           familyi={B\bibinitperiod},
+           given={D.\bibnamedelimi S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=25289088678a4ae9c74df9275c8ab269}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7550f4c4b73a91778c38a7a8b73605e}{%
+           family={Downey},
+           familyi={D\bibinitperiod},
+           given={A.\bibnamedelimi B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=66edb16f9ebe9cd7496030804e1127e9}{%
+           family={George},
+           familyi={G\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=755e4fc4b7d5e24efc4a36b99175744b}{%
+           family={Heagy},
+           familyi={H\bibinitperiod},
+           given={L.\bibnamedelimi J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7ace5f45a860287647fee3e511260e8c}{%
+           family={Mandli},
+           familyi={M\bibinitperiod},
+           given={K.\bibnamedelimi T.},
+           giveni={K\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=23ebc8e8ddbac7e5c664c4749328afcb}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={J.\bibnamedelimi K.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=643aece1ab37bcf364a6318c429683b3}{%
+           family={Lippert},
+           familyi={L\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b16ae4fee18f6e3c9f0e082853bbc72}{%
+           family={Niemeyer},
+           familyi={N\bibinitperiod},
+           given={K.\bibnamedelimi E.},
+           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a265a097e16963289fb47c3792326c91}{%
+           family={Watkins},
+           familyi={W\bibinitperiod},
+           given={R.\bibnamedelimi R.},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c1242305fbf2faf05317919ed42b2ade}{%
+           family={West},
+           familyi={W\bibinitperiod},
+           given={R.\bibnamedelimi H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fd14315c150b320669224e1f2f2e466c}{%
+           family={Wickes},
+           familyi={W\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b9ee2cc0c9765f776a2683d1a630bbd}{%
+           family={Willing},
+           familyi={W\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=32f4b568c5254863767c4fd5608b3bd6}{%
+           family={Zingale},
+           familyi={Z\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e0f7f36885eb7706b24255a530e7f455}
+      \strng{fullhash}{e0f7f36885eb7706b24255a530e7f455}
+      \strng{fullhashraw}{e0f7f36885eb7706b24255a530e7f455}
+      \strng{bibnamehash}{e0f7f36885eb7706b24255a530e7f455}
+      \strng{authorbibnamehash}{e0f7f36885eb7706b24255a530e7f455}
+      \strng{authornamehash}{e0f7f36885eb7706b24255a530e7f455}
+      \strng{authorfullhash}{e0f7f36885eb7706b24255a530e7f455}
+      \strng{authorfullhashraw}{e0f7f36885eb7706b24255a530e7f455}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Open Source Education}
+      \field{title}{{Teaching and learning with Jupyter}}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.21105/jose.00032
+      \endverb
+    \endentry
+    \entry{Bybee2006}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=9972179fc99d5b7b5f71278a2998ac95}{%
+           family={Bybee},
+           familyi={B\bibinitperiod},
+           given={R.\bibnamedelimi W.},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dd59c240891cc8d1b05cda06bc492dca}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={J.\bibnamedelimi A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5b35d25b74ba5e90c781422506015559}{%
+           family={Gardner},
+           familyi={G\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a68030e3ca80b90ed3069771312703a6}{%
+           family={Van\bibnamedelima Scotter},
+           familyi={V\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4cc7ede68f38bb03d9350fd81f9e9edf}{%
+           family={Powell},
+           familyi={P\bibinitperiod},
+           given={J.\bibnamedelimi C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0380fd59d0deb228cdfb52b42f0bfdca}{%
+           family={Westbrook},
+           familyi={W\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5b123d8789ea0656955e0494ff380c59}{%
+           family={Landes},
+           familyi={L\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{083242ffd04b443a880a2afae72c1615}
+      \strng{fullhash}{083242ffd04b443a880a2afae72c1615}
+      \strng{fullhashraw}{083242ffd04b443a880a2afae72c1615}
+      \strng{bibnamehash}{083242ffd04b443a880a2afae72c1615}
+      \strng{authorbibnamehash}{083242ffd04b443a880a2afae72c1615}
+      \strng{authornamehash}{083242ffd04b443a880a2afae72c1615}
+      \strng{authorfullhash}{083242ffd04b443a880a2afae72c1615}
+      \strng{authorfullhashraw}{083242ffd04b443a880a2afae72c1615}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Colorado Springs, CO: BSCS}
+      \field{title}{{The BSCS 5E instructional model: Origins and effectiveness}}
+      \field{volume}{5}
+      \field{year}{2006}
+      \field{pages}{88\bibrangedash 98}
+      \range{pages}{11}
+    \endentry
+    \entry{Chinn2002}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9dad6a5096b919c97497795cb7a5413e}{%
+           family={Chinn},
+           familyi={C\bibinitperiod},
+           given={C.\bibnamedelimi A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aeff1108c49a2bc56f7cbbb8492b8a81}{%
+           family={Malhotra},
+           familyi={M\bibinitperiod},
+           given={B.\bibnamedelimi A.},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ae3acba0b5ae0418f4f440dd6ba9aad5}
+      \strng{fullhash}{ae3acba0b5ae0418f4f440dd6ba9aad5}
+      \strng{fullhashraw}{ae3acba0b5ae0418f4f440dd6ba9aad5}
+      \strng{bibnamehash}{ae3acba0b5ae0418f4f440dd6ba9aad5}
+      \strng{authorbibnamehash}{ae3acba0b5ae0418f4f440dd6ba9aad5}
+      \strng{authornamehash}{ae3acba0b5ae0418f4f440dd6ba9aad5}
+      \strng{authorfullhash}{ae3acba0b5ae0418f4f440dd6ba9aad5}
+      \strng{authorfullhashraw}{ae3acba0b5ae0418f4f440dd6ba9aad5}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science Education}
+      \field{number}{2}
+      \field{title}{{Epistemologically authentic inquiry in schools: A theoretical framework for evaluating inquiry tasks}}
+      \field{volume}{86}
+      \field{year}{2002}
+      \field{pages}{175\bibrangedash 218}
+      \range{pages}{44}
+      \verb{doi}
+      \verb 10.1002/sce.10001
+      \endverb
+    \endentry
+    \entry{Gould2016}{article}{}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=0d0c4201a3e3df7c36671f7015cc6474}{%
+           family={Gould},
+           familyi={G\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b5a4b51f82130861833371fdea3f14c5}{%
+           family={Machado},
+           familyi={M\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e27485badf8d5a7575a7b5aca6397173}{%
+           family={Ong},
+           familyi={O\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e68c5fd89fd926beec66f4e899280378}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae897235aac374c53cb6accf5fb40058}{%
+           family={Molyneux},
+           familyi={M\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5864fe65ef3a1a5573093dfdf27e811a}{%
+           family={Nolen},
+           familyi={N\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fefeb314657aed74e3e9350d61d79bfc}{%
+           family={Tangmunarunkit},
+           familyi={T\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb477199c15cfb2b6f3612868938fc5e}{%
+           family={Trusela},
+           familyi={T\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8961c4549cfdf0c79ebef1596c2713cb}{%
+           family={Zanontian},
+           familyi={Z\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{40747fc4d8acf1533f8d8b1f4cae83f4}
+      \strng{fullhash}{40747fc4d8acf1533f8d8b1f4cae83f4}
+      \strng{fullhashraw}{40747fc4d8acf1533f8d8b1f4cae83f4}
+      \strng{bibnamehash}{40747fc4d8acf1533f8d8b1f4cae83f4}
+      \strng{authorbibnamehash}{40747fc4d8acf1533f8d8b1f4cae83f4}
+      \strng{authornamehash}{40747fc4d8acf1533f8d8b1f4cae83f4}
+      \strng{authorfullhash}{40747fc4d8acf1533f8d8b1f4cae83f4}
+      \strng{authorfullhashraw}{40747fc4d8acf1533f8d8b1f4cae83f4}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the Ninth International Conference on Teaching Statistics}
+      \field{title}{{Teaching data science to secondary students: The mobilize introduction to data science curriculum}}
+      \field{year}{2016}
+    \endentry
+    \entry{IPCC2021}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=676f7b9b8e5bb30500c01e2385e59174}{%
+           family={{IPCC}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Cambridge, UK}%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{676f7b9b8e5bb30500c01e2385e59174}
+      \strng{fullhash}{676f7b9b8e5bb30500c01e2385e59174}
+      \strng{fullhashraw}{676f7b9b8e5bb30500c01e2385e59174}
+      \strng{bibnamehash}{676f7b9b8e5bb30500c01e2385e59174}
+      \strng{authorbibnamehash}{676f7b9b8e5bb30500c01e2385e59174}
+      \strng{authornamehash}{676f7b9b8e5bb30500c01e2385e59174}
+      \strng{authorfullhash}{676f7b9b8e5bb30500c01e2385e59174}
+      \strng{authorfullhashraw}{676f7b9b8e5bb30500c01e2385e59174}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change}}
+      \field{year}{2021}
+    \endentry
+    \entry{Keeling1976}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=d79f6c0e8aa3581b13fecca1aec00c07}{%
+           family={Keeling},
+           familyi={K\bibinitperiod},
+           given={C.\bibnamedelimi D.},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9bca9e66c9f736be49fbfe5830794f8c}{%
+           family={Bacastow},
+           familyi={B\bibinitperiod},
+           given={R.\bibnamedelimi B.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f838bc29d4459aa9fc854c71aa0c8cde}{%
+           family={Bainbridge},
+           familyi={B\bibinitperiod},
+           given={A.\bibnamedelimi E.},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9d907cefcd4ecb07a532c2cd4b33bf46}{%
+           family={Ekdahl},
+           familyi={E\bibinitperiod},
+           given={C.\bibnamedelimi A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a5e64043951787dce98fffecffb5e547}{%
+           family={Guenther},
+           familyi={G\bibinitperiod},
+           given={P.\bibnamedelimi R.},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a506c543d156f851188d8cb86a0f8c68}{%
+           family={Waterman},
+           familyi={W\bibinitperiod},
+           given={L.\bibnamedelimi S.},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=70cc46cd9984c90df097fe14c1ba53ca}{%
+           family={Chin},
+           familyi={C\bibinitperiod},
+           given={J.\bibnamedelimi F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f6f1411c89267deb049eff5dbe81ac3c}
+      \strng{fullhash}{f6f1411c89267deb049eff5dbe81ac3c}
+      \strng{fullhashraw}{f6f1411c89267deb049eff5dbe81ac3c}
+      \strng{bibnamehash}{f6f1411c89267deb049eff5dbe81ac3c}
+      \strng{authorbibnamehash}{f6f1411c89267deb049eff5dbe81ac3c}
+      \strng{authornamehash}{f6f1411c89267deb049eff5dbe81ac3c}
+      \strng{authorfullhash}{f6f1411c89267deb049eff5dbe81ac3c}
+      \strng{authorfullhashraw}{f6f1411c89267deb049eff5dbe81ac3c}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Tellus}
+      \field{number}{6}
+      \field{title}{{Atmospheric carbon dioxide variations at Mauna Loa Observatory, Hawaii}}
+      \field{volume}{28}
+      \field{year}{1976}
+      \field{pages}{538\bibrangedash 551}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1111/j.2153-3490.1976.tb00701.x
+      \endverb
+    \endentry
+    \entry{Keeling1960}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3ad9a6a68c8261fb68abbfb97d9f3761}{%
+           family={Keeling},
+           familyi={K\bibinitperiod},
+           given={Charles\bibnamedelima D.},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3ad9a6a68c8261fb68abbfb97d9f3761}
+      \strng{fullhash}{3ad9a6a68c8261fb68abbfb97d9f3761}
+      \strng{fullhashraw}{3ad9a6a68c8261fb68abbfb97d9f3761}
+      \strng{bibnamehash}{3ad9a6a68c8261fb68abbfb97d9f3761}
+      \strng{authorbibnamehash}{3ad9a6a68c8261fb68abbfb97d9f3761}
+      \strng{authornamehash}{3ad9a6a68c8261fb68abbfb97d9f3761}
+      \strng{authorfullhash}{3ad9a6a68c8261fb68abbfb97d9f3761}
+      \strng{authorfullhashraw}{3ad9a6a68c8261fb68abbfb97d9f3761}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Tellus}
+      \field{number}{2}
+      \field{title}{{The concentration and isotopic abundances of carbon dioxide in the atmosphere}}
+      \field{volume}{12}
+      \field{year}{1960}
+      \field{pages}{200\bibrangedash 203}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1111/j.2153-3490.1960.tb01300.x
+      \endverb
+    \endentry
+    \entry{Kjelvik2019}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9b1e212db5be303afb0a1ede0ac534cf}{%
+           family={Kjelvik},
+           familyi={K\bibinitperiod},
+           given={M.\bibnamedelimi K.},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aedc0e2bfc26f6802395bd20ee0fee4b}{%
+           family={Schultheis},
+           familyi={S\bibinitperiod},
+           given={E.\bibnamedelimi H.},
+           giveni={E\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d90da9a4bec962287c290ca66599b13a}
+      \strng{fullhash}{d90da9a4bec962287c290ca66599b13a}
+      \strng{fullhashraw}{d90da9a4bec962287c290ca66599b13a}
+      \strng{bibnamehash}{d90da9a4bec962287c290ca66599b13a}
+      \strng{authorbibnamehash}{d90da9a4bec962287c290ca66599b13a}
+      \strng{authornamehash}{d90da9a4bec962287c290ca66599b13a}
+      \strng{authorfullhash}{d90da9a4bec962287c290ca66599b13a}
+      \strng{authorfullhashraw}{d90da9a4bec962287c290ca66599b13a}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CBE—Life Sciences Education}
+      \field{number}{2}
+      \field{title}{{Getting messy with authentic data: exploring the potential of using data from scientific research to support student data literacy}}
+      \field{volume}{18}
+      \field{year}{2019}
+      \field{pages}{es2}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1187/cbe.18-02-0023
+      \endverb
+    \endentry
+    \entry{Monroe2019}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=a7a0155622a6b94c769a2447fcb881db}{%
+           family={Monroe},
+           familyi={M\bibinitperiod},
+           given={M.\bibnamedelimi C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=913184d3f180d680d79a6f7cb655bff8}{%
+           family={Plate},
+           familyi={P\bibinitperiod},
+           given={R.\bibnamedelimi R.},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=00ff9a0434f9cd35664f03225c3a6f46}{%
+           family={Oxarart},
+           familyi={O\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cee9bbd95c845b401ce25e7df8840b2e}{%
+           family={Bowers},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc00297b2fa04c770841c79caf058b23}{%
+           family={Chaves},
+           familyi={C\bibinitperiod},
+           given={W.\bibnamedelimi A.},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5c96cbe1fc422897b40ed84addd550ca}
+      \strng{fullhash}{5c96cbe1fc422897b40ed84addd550ca}
+      \strng{fullhashraw}{5c96cbe1fc422897b40ed84addd550ca}
+      \strng{bibnamehash}{5c96cbe1fc422897b40ed84addd550ca}
+      \strng{authorbibnamehash}{5c96cbe1fc422897b40ed84addd550ca}
+      \strng{authornamehash}{5c96cbe1fc422897b40ed84addd550ca}
+      \strng{authorfullhash}{5c96cbe1fc422897b40ed84addd550ca}
+      \strng{authorfullhashraw}{5c96cbe1fc422897b40ed84addd550ca}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environmental Education Research}
+      \field{number}{6}
+      \field{title}{{Identifying effective climate change education strategies: A systematic review of the research}}
+      \field{volume}{25}
+      \field{year}{2019}
+      \field{pages}{791\bibrangedash 812}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1080/13504622.2017.1360842
+      \endverb
+    \endentry
+    \entry{NRC2012}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=542dbf807c6825455f75670116436ebd}{%
+           family={{National Research Council}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Washington, DC}%
+      }
+      \list{publisher}{1}{%
+        {National Academies Press}%
+      }
+      \strng{namehash}{542dbf807c6825455f75670116436ebd}
+      \strng{fullhash}{542dbf807c6825455f75670116436ebd}
+      \strng{fullhashraw}{542dbf807c6825455f75670116436ebd}
+      \strng{bibnamehash}{542dbf807c6825455f75670116436ebd}
+      \strng{authorbibnamehash}{542dbf807c6825455f75670116436ebd}
+      \strng{authornamehash}{542dbf807c6825455f75670116436ebd}
+      \strng{authorfullhash}{542dbf807c6825455f75670116436ebd}
+      \strng{authorfullhashraw}{542dbf807c6825455f75670116436ebd}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{A Framework for K-12 Science Education: Practices, Crosscutting Concepts, and Core Ideas}}
+      \field{year}{2012}
+    \endentry
+    \entry{NGSS2013}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9b9d83316495cdd47b719d5d1fac9f03}{%
+           family={{NGSS Lead States}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Washington, DC}%
+      }
+      \list{publisher}{1}{%
+        {The National Academies Press}%
+      }
+      \strng{namehash}{9b9d83316495cdd47b719d5d1fac9f03}
+      \strng{fullhash}{9b9d83316495cdd47b719d5d1fac9f03}
+      \strng{fullhashraw}{9b9d83316495cdd47b719d5d1fac9f03}
+      \strng{bibnamehash}{9b9d83316495cdd47b719d5d1fac9f03}
+      \strng{authorbibnamehash}{9b9d83316495cdd47b719d5d1fac9f03}
+      \strng{authornamehash}{9b9d83316495cdd47b719d5d1fac9f03}
+      \strng{authorfullhash}{9b9d83316495cdd47b719d5d1fac9f03}
+      \strng{authorfullhashraw}{9b9d83316495cdd47b719d5d1fac9f03}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Next Generation Science Standards: For States, By States}}
+      \field{year}{2013}
+    \endentry
+    \entry{Pellegrino2013}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8a45a7366245991fdacba3fc2b98ac46}{%
+           family={Pellegrino},
+           familyi={P\bibinitperiod},
+           given={J.\bibnamedelimi W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8a45a7366245991fdacba3fc2b98ac46}
+      \strng{fullhash}{8a45a7366245991fdacba3fc2b98ac46}
+      \strng{fullhashraw}{8a45a7366245991fdacba3fc2b98ac46}
+      \strng{bibnamehash}{8a45a7366245991fdacba3fc2b98ac46}
+      \strng{authorbibnamehash}{8a45a7366245991fdacba3fc2b98ac46}
+      \strng{authornamehash}{8a45a7366245991fdacba3fc2b98ac46}
+      \strng{authorfullhash}{8a45a7366245991fdacba3fc2b98ac46}
+      \strng{authorfullhashraw}{8a45a7366245991fdacba3fc2b98ac46}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science}
+      \field{number}{6130}
+      \field{title}{{Proficiency in science: Assessment challenges and opportunities}}
+      \field{volume}{340}
+      \field{year}{2013}
+      \field{pages}{320\bibrangedash 323}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1126/science.1232065
+      \endverb
+    \endentry
+    \entry{Thoning1989}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f8708c01215715e6e11c6fb3b5c7a371}{%
+           family={Thoning},
+           familyi={T\bibinitperiod},
+           given={K.\bibnamedelimi W.},
+           giveni={K\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b9c576b7a76b57db7a1905810ffad11}{%
+           family={Tans},
+           familyi={T\bibinitperiod},
+           given={P.\bibnamedelimi P.},
+           giveni={P\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f22683becac634f9efd9d751e367f5fa}{%
+           family={Komhyr},
+           familyi={K\bibinitperiod},
+           given={W.\bibnamedelimi D.},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7c7177851f3a9ab7b11f769e4ccc20d9}
+      \strng{fullhash}{7c7177851f3a9ab7b11f769e4ccc20d9}
+      \strng{fullhashraw}{7c7177851f3a9ab7b11f769e4ccc20d9}
+      \strng{bibnamehash}{7c7177851f3a9ab7b11f769e4ccc20d9}
+      \strng{authorbibnamehash}{7c7177851f3a9ab7b11f769e4ccc20d9}
+      \strng{authornamehash}{7c7177851f3a9ab7b11f769e4ccc20d9}
+      \strng{authorfullhash}{7c7177851f3a9ab7b11f769e4ccc20d9}
+      \strng{authorfullhashraw}{7c7177851f3a9ab7b11f769e4ccc20d9}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Geophysical Research: Atmospheres}
+      \field{number}{D6}
+      \field{title}{{Atmospheric carbon dioxide at Mauna Loa Observatory: 2. Analysis of the NOAA GMCC data, 1974-1985}}
+      \field{volume}{94}
+      \field{year}{1989}
+      \field{pages}{8549\bibrangedash 8565}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1029/JD094iD06p08549
+      \endverb
+    \endentry
+    \entry{Weintrop2016}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=e9cae749b3b45724dd469a784cf9adf2}{%
+           family={Weintrop},
+           familyi={W\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0639496eba8d8362228002339f90900d}{%
+           family={Beheshti},
+           familyi={B\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7912dd17dbe9245ddbb3a577e1d8dd19}{%
+           family={Horn},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6fd289b191b09f75c90023cd8791ff51}{%
+           family={Orton},
+           familyi={O\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9d7d38bfc988a92ea569f2b1c25d97f0}{%
+           family={Jona},
+           familyi={J\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8833936bc1bae15544fee70d20b55999}{%
+           family={Trouille},
+           familyi={T\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15f212be3e50bbade3fe5a086ff50000}{%
+           family={Wilensky},
+           familyi={W\bibinitperiod},
+           given={U.},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{11fd094917cc8a0954758c29a1225c0e}
+      \strng{fullhash}{11fd094917cc8a0954758c29a1225c0e}
+      \strng{fullhashraw}{11fd094917cc8a0954758c29a1225c0e}
+      \strng{bibnamehash}{11fd094917cc8a0954758c29a1225c0e}
+      \strng{authorbibnamehash}{11fd094917cc8a0954758c29a1225c0e}
+      \strng{authornamehash}{11fd094917cc8a0954758c29a1225c0e}
+      \strng{authorfullhash}{11fd094917cc8a0954758c29a1225c0e}
+      \strng{authorfullhashraw}{11fd094917cc8a0954758c29a1225c0e}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Science Education and Technology}
+      \field{number}{1}
+      \field{title}{{Defining computational thinking for mathematics and science classrooms}}
+      \field{volume}{25}
+      \field{year}{2016}
+      \field{pages}{127\bibrangedash 147}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1007/s10956-015-9581-5
+      \endverb
+    \endentry
+    \entry{Wolff2016}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=71b17f090ec930f575bcfa018a28af2e}{%
+           family={Wolff},
+           familyi={W\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eebb5f53c136c73a078cfb0ec9b76ef2}{%
+           family={Gooch},
+           familyi={G\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=55b669cd7462326e67a7cd09e14668ad}{%
+           family={Cavero\bibnamedelima Montaner},
+           familyi={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={J.\bibnamedelimi J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=37c08d2ec03e672af8620281d02cf42b}{%
+           family={Rashid},
+           familyi={R\bibinitperiod},
+           given={U.},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6f0fdeef38e3b3c8e97da1c67654fe40}{%
+           family={Kortuem},
+           familyi={K\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e4bdcedc70f41a28d8cc22448f095533}
+      \strng{fullhash}{e4bdcedc70f41a28d8cc22448f095533}
+      \strng{fullhashraw}{e4bdcedc70f41a28d8cc22448f095533}
+      \strng{bibnamehash}{e4bdcedc70f41a28d8cc22448f095533}
+      \strng{authorbibnamehash}{e4bdcedc70f41a28d8cc22448f095533}
+      \strng{authornamehash}{e4bdcedc70f41a28d8cc22448f095533}
+      \strng{authorfullhash}{e4bdcedc70f41a28d8cc22448f095533}
+      \strng{authorfullhashraw}{e4bdcedc70f41a28d8cc22448f095533}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Community Informatics}
+      \field{number}{3}
+      \field{title}{{Creating an understanding of data literacy for a data-driven society}}
+      \field{volume}{12}
+      \field{year}{2016}
+      \field{pages}{9\bibrangedash 26}
+      \range{pages}{18}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
