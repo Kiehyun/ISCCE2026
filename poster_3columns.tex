@@ -160,7 +160,7 @@
   \begin{tikzpicture}[remember picture,overlay]%
     %the poster background color
     \fill[fill=aaublue3] (current page.north west) rectangle (current page.south east);
-    %the header
+    %the header (slightly darker than background)
     \fill [fill=aaublue3] (current page.north west) rectangle ([yshift=-\headerheight] current page.north east);
   \end{tikzpicture}
 }
@@ -464,7 +464,7 @@ Its long time span and rigorous quality control make it well suited for educatio
 \end{posterbox}
 
 
-\begin{posterbox}[name=figures,column=1,below=Conclusion, above=bottom]{Science Data Literacy Development}
+\begin{posterbox}[name=figures,column=1,below=Conclusion, above=bottom]{\normalsize {Science Data Literacy Development}}
 % 데이터 리터러시 함양
 
 \footnotesize
@@ -705,7 +705,7 @@ By building data literacy with the Keeling Curve dataset, students gain conceptu
 % 데이터 가용성:
 All Jupyter notebooks and educational materials are available at: \\
 % 모든 주피터 노트북과 교육 자료는 다음에서 이용 가능:
-\href{https://github.com/Kiehyun/ISCCE2026/blob/main/appendix/The_Keeling_Curve_in_Action.ipynb}{%
+\href{\DataAvailURL}{%
   \parbox{\linewidth}{%
     \nolinkurl{https://github.com/Kiehyun/ISCCE2026/blob/main/appendix/}\\
     \nolinkurl{The_Keeling_Curve_in_Action.ipynb}%
