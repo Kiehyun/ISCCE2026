@@ -148,6 +148,32 @@
 % Stable (unbroken) URL targets for multi-line clickable links
 \newcommand{\DataAvailURL}{https://github.com/Kiehyun/ISCCE2026/blob/main/appendix/The_Keeling_Curve_in_Action.ipynb}
 
+% Poster header (Title + Authors + Affiliations) in ONE minipage
+\newcommand{\PosterTitle}{%
+  Enhancing Science Data Literacy Through Interactive Analysis of the Keeling Curve: \newline A Case Study with Science-Gifted Students%
+}
+\newcommand{\PosterAuthors}{%
+  Kiehyun Park\textsuperscript{1} (Kiehyun.Park@gmail.com)%
+}
+\newcommand{\PosterAffiliations}{%
+  \textsuperscript{1}Korea National University of Education%
+}
+\newcommand{\PosterHeaderMinipage}{%
+  \begin{minipage}[t]{0.9\linewidth}
+    \centering
+    \vspace{1.8em}
+    {\LARGE\bfseries
+      % Tighter title leading; keep the whole title centered.
+      \linespread{0.92}\selectfont
+      \PosterTitle\par
+    }
+    \vspace{0.20em}
+    {\footnotesize \PosterAuthors\par}
+    \vspace{0.15em}
+    {\footnotesize \PosterAffiliations\par}
+  \end{minipage}%
+}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Document Start 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -203,16 +229,9 @@
   \includegraphics[height=0.75\headerheight]{./logo/Gemini_Generated_Image_a5kem9a5kem9a5ke.png}
 }
 %the poster title
-{\fontsize{18}{60}\selectfont
-\color{black}\bf
-  Enhancing Science Data Literacy Through Interactive Analysis of the Keeling Curve: A Case Study with Science-Gifted Students
-  % 킬링 곡선의 상호작용적 분석을 통한 과학 데이터 리터러시 함양 : 과학영재학생들에게 적용
-}
+{\color{black}\PosterHeaderMinipage}
 %the author(s)
-{\color{black}\small
-  \vspace{1em} Kiehyun Park\textsuperscript{1} (Kiehyun.Park@gmail.com)  \textsuperscript{1}Korea National University of Education
-  % 박기현, 한국교원대학교
-   }
+{\relax}
 %the logo (the logo on the right)
 {
   %this can be commented out or replaced by a company/department logo

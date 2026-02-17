@@ -1061,13 +1061,13 @@
       \draw (image.east) node(title)[anchor=west,text width=\baposter@titleimage@textwidth]{%
         \begin{minipage}{\baposter@titleimage@textwidth}%
           \begin{center}%
-          \textbf{\Huge #3}\\%
-          {\Large #4}%
+          #3%
+          \ifx#4\relax\else\\{\Large #4}\fi%
           \end{center}%
         \end{minipage}
       };%
     \else% Has no eye catcher
-      \draw (image.east) node(title)[anchor=west]  { {\begin{minipage}{\baposter@titleimage@textwidth}{\bfseries\Huge #3}\\{\Large #4}\end{minipage}} };%
+      \draw (image.east) node(title)[anchor=west]  { {\begin{minipage}{\baposter@titleimage@textwidth}\centering #3\ifx#4\relax\else\\{\Large #4}\fi\end{minipage}} };%
     \fi
   }% END poster begin
 % The body
